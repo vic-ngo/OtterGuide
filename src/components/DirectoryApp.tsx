@@ -198,10 +198,10 @@ export default function DirectoryApp({ vendors }: { vendors: Vendor[] }) {
           </div>
         </div>
 
-        <div className="grid flex-1 gap-5 lg:grid-cols-[240px_minmax(0,1fr)_minmax(0,44%)]">
-          {/* Filters sidebar (desktop) */}
+        <div className="grid flex-1 grid-cols-1 gap-5 lg:grid-cols-[240px_minmax(0,1fr)_minmax(0,44%)]">
+          {/* Filters sidebar (desktop) — scrolls within itself when tall */}
           <aside className="hidden lg:block">
-            <div className="sticky top-5 rounded-xl border border-ink-200 bg-white p-4">
+            <div className="sticky top-5 max-h-[calc(100vh-2.5rem)] overflow-y-auto scroll-thin rounded-xl border border-ink-200 bg-white p-4">
               <FilterPanel
                 facets={facets}
                 filters={filters}
@@ -213,7 +213,7 @@ export default function DirectoryApp({ vendors }: { vendors: Vendor[] }) {
 
           {/* Results list — flows down the full page on desktop */}
           <section
-            className={`${mobileView === "map" ? "hidden" : "block"} lg:block`}
+            className={`min-w-0 ${mobileView === "map" ? "hidden" : "block"} lg:block`}
           >
             <VendorList
               vendors={results}

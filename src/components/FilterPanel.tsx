@@ -69,7 +69,6 @@ export default function FilterPanel({
         options={facets.cities}
         selected={filters.cities}
         onToggle={onToggle}
-        scroll
       />
     </div>
   );
