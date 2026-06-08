@@ -211,28 +211,26 @@ export default function DirectoryApp({ vendors }: { vendors: Vendor[] }) {
             </div>
           </aside>
 
-          {/* Results list */}
+          {/* Results list — flows down the full page on desktop */}
           <section
             className={`${mobileView === "map" ? "hidden" : "block"} lg:block`}
           >
-            <div className="lg:max-h-[calc(100vh-13rem)] lg:overflow-y-auto lg:pr-1 lg:scroll-thin">
-              <VendorList
-                vendors={results}
-                activeId={hoveredId}
-                userPoint={userPoint}
-                isBookmarked={bookmarks.isBookmarked}
-                onSelect={setActiveVendor}
-                onHover={setHoveredId}
-                onToggleBookmark={bookmarks.toggle}
-              />
-            </div>
+            <VendorList
+              vendors={results}
+              activeId={hoveredId}
+              userPoint={userPoint}
+              isBookmarked={bookmarks.isBookmarked}
+              onSelect={setActiveVendor}
+              onHover={setHoveredId}
+              onToggleBookmark={bookmarks.toggle}
+            />
           </section>
 
-          {/* Map */}
+          {/* Map — fixed, smaller height; stays put while the list scrolls */}
           <section
             className={`${mobileView === "list" ? "hidden" : "block"} lg:block`}
           >
-            <div className="sticky top-5 h-[60vh] overflow-hidden rounded-xl border border-ink-200 lg:h-[calc(100vh-13rem)]">
+            <div className="sticky top-5 h-[60vh] overflow-hidden rounded-xl border border-ink-200 lg:h-[70vh]">
               <VendorMap
                 vendors={results}
                 hoveredId={hoveredId}
