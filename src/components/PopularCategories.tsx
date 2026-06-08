@@ -15,6 +15,7 @@ const TILES: Tile[] = [
   { label: "Sports", value: "Sports", icon: <SportsIcon /> },
   { label: "Therapy", value: "Therapy", icon: <TherapyIcon /> },
   { label: "Coaching", value: "Coaching", icon: <CoachingIcon /> },
+  { label: "Respite", value: "Respite", icon: <RespiteIcon /> },
   { label: "Music", value: "Music", icon: <MusicIcon /> },
   { label: "Art", value: "Art", icon: <ArtIcon /> },
 ];
@@ -182,6 +183,25 @@ function CoachingIcon() {
         stroke="currentColor"
         strokeWidth="2"
         strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+function RespiteIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
+      <path
+        d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-9.5Z"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M12 18c-1.6-1.1-3-2.3-3-3.7a1.55 1.55 0 0 1 3-.6 1.55 1.55 0 0 1 3 .6c0 1.4-1.4 2.6-3 3.7Z"
+        stroke="currentColor"
+        strokeWidth="1.6"
         strokeLinejoin="round"
       />
     </svg>

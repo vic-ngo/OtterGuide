@@ -79,6 +79,11 @@ export function inCoachingGroup(vendor: Vendor): boolean {
   );
 }
 
+// Respite / in-home relief care.
+export function inRespiteGroup(vendor: Vendor): boolean {
+  return vendor.categories.some((c) => c.toLowerCase() === "respite");
+}
+
 /**
  * Popular-tile values that filter by a broad group (matched via a predicate)
  * rather than an exact subcategory string.
@@ -87,6 +92,7 @@ export const GROUP_PREDICATES: Record<string, (vendor: Vendor) => boolean> = {
   Sports: inSportsGroup,
   Therapy: inTherapyGroup,
   Coaching: inCoachingGroup,
+  Respite: inRespiteGroup,
 };
 
 export interface FacetCount {
