@@ -11,9 +11,9 @@ const hankenGrotesk = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Vendor Directory | Find vendors who accept your funding",
+  title: "OtterGuide | Find vendors who accept your funding",
   description:
-    "Search and filter Regional Center and Self-Determination Program vendors who already accept payment from Regional Center or a Financial Management System (FMS).",
+    "OtterGuide helps you search and filter Regional Center and Self-Determination Program vendors who already accept payment from Regional Center or a Financial Management System (FMS).",
 };
 
 export default function RootLayout({
