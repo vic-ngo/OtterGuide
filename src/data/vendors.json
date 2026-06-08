@@ -160,6 +160,57 @@
     "id": "allcheer"
   },
   {
+    "name": "At Home Support",
+    "categories": [
+      "Supported Living Services",
+      "Respite"
+    ],
+    "subcategories": [
+      "Residental services",
+      "1:1 assistance",
+      "In-home"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Via Joutain",
+    "email": "vjoutain@hsseniorcare.com",
+    "phone": "(650)-445-4606",
+    "website": "www.hsseniorcare.com/",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "San Bruno, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "at-home-support"
+  },
+  {
+    "name": "AuPairCare",
+    "categories": [
+      "Live-In Caregiver"
+    ],
+    "subcategories": [],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Elizabeth Ramsay",
+    "email": "billing@aupaircare.com",
+    "phone": "(800)-428-7247",
+    "website": "www.aupaircare.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "San Francisco, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "aupaircare"
+  },
+  {
     "name": "Bakar Fitness - UCSF",
     "categories": [
       "Social Recreation"
@@ -657,6 +708,31 @@
     "id": "camp-via-west"
   },
   {
+    "name": "CareerCOACH Services of the Bay Area",
+    "categories": [
+      "Coaching"
+    ],
+    "subcategories": [
+      "Employment"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Fal Sarkar",
+    "email": "falsarkar@careercoachsvc.com",
+    "phone": "(925)-658-2150",
+    "website": "www.careercoachsvc.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "Moraga, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "careercoach-services-of-the-bay-area"
+  },
+  {
     "name": "Cartoon Art Museum",
     "categories": [
       "Social Recreation"
@@ -1022,6 +1098,35 @@
     "id": "community-music-center-sf"
   },
   {
+    "name": "Connected Care",
+    "categories": [
+      "Coaching",
+      "Independent Living Skills",
+      "Supported Living Services"
+    ],
+    "subcategories": [
+      "Employment",
+      "Residental services",
+      "1:1 assistance"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Anabelle Adams",
+    "email": "info@connectedfamilycare.org",
+    "phone": "(925)-826-6830",
+    "website": "connectedfamilycare.org",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "919 Village Center, Lafayette, CA 94549",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "connected-care"
+  },
+  {
     "name": "Corte Madera Parks & Recreation",
     "categories": [
       "Social Recreation"
@@ -1053,6 +1158,43 @@
       }
     ],
     "id": "corte-madera-parks-recreation"
+  },
+  {
+    "name": "Cortica",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Speech",
+      "Occupational",
+      "Music",
+      "Early intervention",
+      "ABA"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Shaina Robinson",
+    "email": "srobinson@corticacare.com",
+    "phone": "(888)-885-5068",
+    "website": "corticacare.com",
+    "locations": [
+      {
+        "label": "Concord, CA",
+        "address": "1320 Willow Pass Road, Suite 600, Concord, CA 94520",
+        "city": "Concord",
+        "lat": 37.9687045,
+        "lng": -122.0520338
+      },
+      {
+        "label": "Marin, CA",
+        "address": "4000 Civic Center Dr, Ste 100, San Rafael, CA 94903",
+        "city": "San Rafael",
+        "lat": 38.0046128,
+        "lng": -122.5384021
+      }
+    ],
+    "id": "cortica"
   },
   {
     "name": "Creative Vibes Music Therapy",
@@ -1731,6 +1873,31 @@
     "id": "guerrilla-jiu-jitsu"
   },
   {
+    "name": "Guiding Extraordinary Minds, LLC",
+    "categories": [
+      "Coaching"
+    ],
+    "subcategories": [
+      "Employment"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Maisie Soetantyo",
+    "email": "maisie@autismcareerpathways.org",
+    "phone": "(650)-483-7174",
+    "website": "autismcareerpathways.org",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "Redwood city, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "guiding-extraordinary-minds-llc"
+  },
+  {
     "name": "Han Martial Arts",
     "categories": [
       "Social Recreation"
@@ -2035,6 +2202,59 @@
     "id": "kfs-school"
   },
   {
+    "name": "Kyo Autism Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "ABA"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Sarrah Glennie",
+    "email": "sarrah.glennie@kyocare.com",
+    "phone": "(877)-264-6747",
+    "website": "kyocare.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      },
+      {
+        "label": "Daly City, CA",
+        "address": "295 89th Street, Suite 306, Daly City, CA 94015",
+        "city": "Daly City",
+        "lat": 37.6917451,
+        "lng": -122.4720431
+      },
+      {
+        "label": "Concord, CA",
+        "address": "1800 Sutter St, Suite 300, Concord, CA 94520",
+        "city": "Concord",
+        "lat": 37.9737774,
+        "lng": -122.0374097
+      },
+      {
+        "label": "Hayward, CA",
+        "address": "1290 B Street, Suite 310, Hayward, CA 94541",
+        "city": "Hayward",
+        "lat": 37.6764508,
+        "lng": -122.0780433
+      },
+      {
+        "label": "San Jose, CA",
+        "address": "1101 South Winchester Blvd, Suite F-168, San Jose, CA 95128",
+        "city": "San Jose",
+        "lat": 37.3068651,
+        "lng": -121.9515421
+      }
+    ],
+    "id": "kyo-autism-therapy"
+  },
+  {
     "name": "La Petite Baleen",
     "categories": [
       "Social Recreation"
@@ -2270,6 +2490,29 @@
     "id": "magic-cottage-preschool"
   },
   {
+    "name": "Maxim Healthcare Companion",
+    "categories": [
+      "Supported Living Services"
+    ],
+    "subcategories": [],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Patrick Flynn",
+    "email": "paflynn@maxhealth.com",
+    "phone": "(410)-910-4078",
+    "website": "www.maximhealthcare.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "San Jose, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "maxim-healthcare-companion"
+  },
+  {
     "name": "Movement Climbing LLC",
     "categories": [
       "Social Recreation"
@@ -2350,6 +2593,59 @@
       }
     ],
     "id": "napa-school-of-music"
+  },
+  {
+    "name": "National Care Advisors",
+    "categories": [
+      "Legal services",
+      "Planning"
+    ],
+    "subcategories": [
+      "Trusts",
+      "Litigation",
+      "Financial advisor"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Adam Earl",
+    "email": "aearl@nationalcareadvisors.com",
+    "phone": "(614)-561-8349",
+    "website": "nationalcareadvisors.com",
+    "locations": [
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      }
+    ],
+    "id": "national-care-advisors"
+  },
+  {
+    "name": "NU Care San Jose",
+    "categories": [
+      "Respite"
+    ],
+    "subcategories": [
+      "In-home"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Edward Lee",
+    "email": "sanjose@nu.care",
+    "phone": "(888)-862-2003",
+    "website": "nu.care",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "San Jose, CA",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "nu-care-san-jose"
   },
   {
     "name": "Oakland Zoo",
@@ -2696,6 +2992,35 @@
       }
     ],
     "id": "pomeroy-recreation-and-rehabilitation-center"
+  },
+  {
+    "name": "Praise Respite and Home Care",
+    "categories": [
+      "Supported Living Services",
+      "Respite"
+    ],
+    "subcategories": [
+      "1:1 assistance",
+      "In-home"
+    ],
+    "fundingAccepted": [
+      "SARC",
+      "ACE FMS"
+    ],
+    "contactName": "Serkadis Kewie",
+    "email": "serki.kewie@praiserespite.org",
+    "phone": "(408)-992-1824",
+    "website": "https://praiserespitecare.com",
+    "locations": [
+      {
+        "label": "San Jose, CA",
+        "address": "San Jose, CA",
+        "city": "San Jose",
+        "lat": 37.3361663,
+        "lng": -121.890591
+      }
+    ],
+    "id": "praise-respite-and-home-care"
   },
   {
     "name": "Project Commotion",
@@ -3749,6 +4074,32 @@
       }
     ],
     "id": "waterworks-aquatics"
+  },
+  {
+    "name": "WorkABLE Career Trends",
+    "categories": [
+      "Coaching"
+    ],
+    "subcategories": [
+      "Employment"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Narda Mamou",
+    "email": "narda@trendscareers.com",
+    "phone": "(510)-344-8828",
+    "website": "workablecareers.org",
+    "locations": [
+      {
+        "label": "Fremont, CA",
+        "address": "39159 Paseo Padre Pkwy #204 Fremont, CA 94538",
+        "city": "Fremont",
+        "lat": 37.553106,
+        "lng": -121.9809487
+      }
+    ],
+    "id": "workable-career-trends"
   },
   {
     "name": "Wushu Central Martial Arts Academy",

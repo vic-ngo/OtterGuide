@@ -47,6 +47,48 @@ export function inSportsGroup(vendor: Vendor): boolean {
   return vendor.subcategories.some((s) => SPORTS_GROUP.has(s.toLowerCase()));
 }
 
+// Therapy-type services. The "Therapy" group filter matches any vendor in a
+// therapy category or with a therapy-style service (Speech, OT, ABA, etc.) —
+// this replaces the former standalone "Speech" and "Social skills" tiles.
+const THERAPY_CATEGORIES = new Set(["therapy"]);
+const THERAPY_GROUP = new Set([
+  "speech",
+  "occupational",
+  "physical",
+  "feeding",
+  "aba",
+  "early intervention",
+  "social skills group",
+  "aac",
+  "dir floortime",
+  "behavior",
+]);
+
+export function inTherapyGroup(vendor: Vendor): boolean {
+  return (
+    vendor.categories.some((c) => THERAPY_CATEGORIES.has(c.toLowerCase())) ||
+    vendor.subcategories.some((s) => THERAPY_GROUP.has(s.toLowerCase()))
+  );
+}
+
+// Coaching / employment support.
+export function inCoachingGroup(vendor: Vendor): boolean {
+  return (
+    vendor.categories.some((c) => c.toLowerCase() === "coaching") ||
+    vendor.subcategories.some((s) => s.toLowerCase() === "employment")
+  );
+}
+
+/**
+ * Popular-tile values that filter by a broad group (matched via a predicate)
+ * rather than an exact subcategory string.
+ */
+export const GROUP_PREDICATES: Record<string, (vendor: Vendor) => boolean> = {
+  Sports: inSportsGroup,
+  Therapy: inTherapyGroup,
+  Coaching: inCoachingGroup,
+};
+
 export interface FacetCount {
   value: string;
   count: number;
@@ -104,9 +146,10 @@ export function filterVendors(vendors: Vendor[], filters: Filters): Vendor[] {
     }
     if (
       filters.subcategories.length &&
-      !filters.subcategories.some((s) =>
-        s === "Sports" ? inSportsGroup(vendor) : vendor.subcategories.includes(s)
-      )
+      !filters.subcategories.some((s) => {
+        const predicate = GROUP_PREDICATES[s];
+        return predicate ? predicate(vendor) : vendor.subcategories.includes(s);
+      })
     ) {
       return false;
     }

@@ -994,5 +994,33 @@
   "4883 Davenport Pl, Fremont, CA 94538": {
     "lat": 37.5073402,
     "lng": -121.9647695
+  },
+  "1320 Willow Pass Road, Suite 600, Concord, CA 94520": {
+    "lat": 37.9687045,
+    "lng": -122.0520338
+  },
+  "4000 Civic Center Dr, Ste 100, San Rafael, CA 94903": {
+    "lat": 38.0046128,
+    "lng": -122.5384021
+  },
+  "295 89th Street, Suite 306, Daly City, CA 94015": {
+    "lat": 37.6917451,
+    "lng": -122.4720431
+  },
+  "1800 Sutter St, Suite 300, Concord, CA 94520": {
+    "lat": 37.9737774,
+    "lng": -122.0374097
+  },
+  "1290 B Street, Suite 310, Hayward, CA 94541": {
+    "lat": 37.6764508,
+    "lng": -122.0780433
+  },
+  "1101 South Winchester Blvd, Suite F-168, San Jose, CA 95128": {
+    "lat": 37.3068651,
+    "lng": -121.9515421
+  },
+  "39159 Paseo Padre Pkwy #204 Fremont, CA 94538": {
+    "lat": 37.553106,
+    "lng": -121.9809487
   }
 }

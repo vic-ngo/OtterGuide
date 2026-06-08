@@ -13,8 +13,8 @@ const TILES: Tile[] = [
   { label: "Camp", value: "Camp", icon: <CampIcon /> },
   { label: "Swim", value: "Swim", icon: <SwimIcon /> },
   { label: "Sports", value: "Sports", icon: <SportsIcon /> },
-  { label: "Speech", value: "Speech", icon: <SpeechIcon /> },
-  { label: "Social skills", value: "Social skills group", icon: <SocialIcon /> },
+  { label: "Therapy", value: "Therapy", icon: <TherapyIcon /> },
+  { label: "Coaching", value: "Coaching", icon: <CoachingIcon /> },
   { label: "Music", value: "Music", icon: <MusicIcon /> },
   { label: "Art", value: "Art", icon: <ArtIcon /> },
   { label: "Online", value: "online", icon: <OnlineIcon /> },
@@ -165,25 +165,31 @@ function SportsIcon() {
   );
 }
 
-function SpeechIcon() {
+function TherapyIcon() {
   return (
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
       <path
-        d="M5 5h14a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H9l-4 3V6a1 1 0 0 1 1-1Z"
+        d="M12 21S4 13.5 4 8.5A4.5 4.5 0 0 1 12 6a4.5 4.5 0 0 1 8 2.5C20 13.5 12 21 12 21Z"
         stroke="currentColor"
         strokeWidth="2"
         strokeLinejoin="round"
       />
+      <path d="M12 9.5v4M10 11.5h4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
     </svg>
   );
 }
 
-function SocialIcon() {
+function CoachingIcon() {
   return (
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
-      <circle cx="8" cy="9" r="3" stroke="currentColor" strokeWidth="2" />
-      <circle cx="16" cy="9" r="3" stroke="currentColor" strokeWidth="2" />
-      <path d="M3 19c0-2.5 2.2-4 5-4s5 1.5 5 4M13 18c.3-2 2.3-3 4-3 2.2 0 4 1.3 4 3.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+      <rect x="3" y="7" width="18" height="13" rx="2" stroke="currentColor" strokeWidth="2" />
+      <path
+        d="M8 7V5.5A1.5 1.5 0 0 1 9.5 4h5A1.5 1.5 0 0 1 16 5.5V7M3 12h18"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
     </svg>
   );
 }
