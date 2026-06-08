@@ -168,14 +168,9 @@ export default function VendorDetail({
                   {loc.online ? (
                     <p className="font-semibold text-foreground">Online (remote)</p>
                   ) : loc.regionWide ? (
-                    <>
-                      {loc.label && (
-                        <p className="font-semibold text-foreground">{loc.label}</p>
-                      )}
-                      <p className="text-ink-600">
-                        In-home, San Francisco Bay Area
-                      </p>
-                    </>
+                    <p className="font-semibold text-foreground">
+                      {loc.label || "San Francisco Bay Area"}
+                    </p>
                   ) : loc.address ? (
                     <>
                       {loc.label && (

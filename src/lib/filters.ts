@@ -256,7 +256,7 @@ export function locationSummary(vendor: Vendor): string {
     );
   }
 
-  if (vendor.locations.some((l) => l.regionWide)) parts.push("Bay Area (in-home)");
+  if (vendor.locations.some((l) => l.regionWide)) parts.push("Bay Area");
   if (vendor.locations.some((l) => l.online)) parts.push("Online");
 
   return parts.filter(Boolean).join(" · ") || "Location varies";
