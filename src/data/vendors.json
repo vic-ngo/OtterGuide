@@ -210,8 +210,10 @@
     "locations": [
       {
         "label": "Fremont, CA",
-        "address": "",
-        "city": "Fremont"
+        "address": "4883 Davenport Pl, Fremont, CA 94538",
+        "city": "Fremont",
+        "lat": 37.5073402,
+        "lng": -121.9647695
       }
     ],
     "id": "bay-aerials-gymnastics"
