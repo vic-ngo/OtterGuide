@@ -17,21 +17,16 @@ const TILES: Tile[] = [
   { label: "Coaching", value: "Coaching", icon: <CoachingIcon /> },
   { label: "Music", value: "Music", icon: <MusicIcon /> },
   { label: "Art", value: "Art", icon: <ArtIcon /> },
-  { label: "Online", value: "online", icon: <OnlineIcon /> },
 ];
 
 interface PopularCategoriesProps {
   selected: string[];
-  online: boolean;
   onSelect: (value: string) => void;
-  onToggleOnline: () => void;
 }
 
 export default function PopularCategories({
   selected,
-  online,
   onSelect,
-  onToggleOnline,
 }: PopularCategoriesProps) {
   const scroller = useRef<HTMLDivElement>(null);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
@@ -75,13 +70,12 @@ export default function PopularCategories({
           className="flex gap-3 overflow-x-auto scroll-smooth snap-x scroll-thin pb-1 sm:px-1"
         >
           {TILES.map((tile) => {
-            const isOnline = tile.value === "online";
-            const active = isOnline ? online : selected.includes(tile.value);
+            const active = selected.includes(tile.value);
             return (
               <button
                 key={tile.value}
                 type="button"
-                onClick={() => (isOnline ? onToggleOnline() : onSelect(tile.value))}
+                onClick={() => onSelect(tile.value)}
                 aria-pressed={active}
                 className={`flex min-w-[112px] shrink-0 snap-start flex-col items-center justify-center gap-2 rounded-xl border px-4 py-4 transition ${
                   active
@@ -220,11 +214,3 @@ function ArtIcon() {
   );
 }
 
-function OnlineIcon() {
-  return (
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
-      <rect x="3" y="4" width="18" height="13" rx="1.5" stroke="currentColor" strokeWidth="2" />
-      <path d="M8 21h8M12 17v4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
-    </svg>
-  );
-}

@@ -149,11 +149,7 @@ export default function DirectoryApp({ vendors }: { vendors: Vendor[] }) {
         <div className="mb-5">
           <PopularCategories
             selected={filters.subcategories}
-            online={filters.online}
             onSelect={(value) => toggleFacet("subcategories", value)}
-            onToggleOnline={() =>
-              setFilters((p) => ({ ...p, online: !p.online }))
-            }
           />
         </div>
 
