@@ -1,0 +1,3868 @@
+[
+  {
+    "name": "24 Hour Fitness",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Group fitness",
+      "Swim",
+      "Sports"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "24 Hr Fitness",
+    "phone": "(858)-693-3500",
+    "website": "24hourfitness.com",
+    "locations": [
+      {
+        "label": "Ocean",
+        "address": "1850 Ocean Avenue San Francisco, CA 94112",
+        "city": "San Francisco",
+        "lat": 37.7253132,
+        "lng": -122.461745
+      },
+      {
+        "label": "Potrero",
+        "address": "1645 Bryant Street San Francisco, CA 94103",
+        "city": "San Francisco",
+        "lat": 37.7663141,
+        "lng": -122.4104501
+      },
+      {
+        "label": "Van Ness",
+        "address": "1200 Van Ness Avenue San Francisco, CA 94109",
+        "city": "San Francisco",
+        "lat": 37.7869572,
+        "lng": -122.4210202
+      },
+      {
+        "label": "Sutter-montgomery",
+        "address": "45 Montgomery St. San Francisco, CA 94104",
+        "city": "San Francisco",
+        "lat": 37.7893378,
+        "lng": -122.4021508
+      },
+      {
+        "label": "Pacifica",
+        "address": "555 Oceana Blvd. Pacifica, CA 94044",
+        "city": "Pacifica",
+        "lat": 37.6481325,
+        "lng": -122.4906419
+      },
+      {
+        "label": "Millbrae",
+        "address": "979 Broadway Avenue Millbrae, CA 94030",
+        "city": "Millbrae",
+        "lat": 37.598958,
+        "lng": -122.400941
+      },
+      {
+        "label": "Oakland High Street",
+        "address": "3950 Alameda Ave. Oakland, CA 94601",
+        "city": "Oakland",
+        "lat": 37.7691673,
+        "lng": -122.2244454
+      },
+      {
+        "label": "El Cerrito",
+        "address": "10636 San Pablo Avenue El Cerrito, CA 94530-2620",
+        "city": "El Cerrito",
+        "lat": 37.91234,
+        "lng": -122.3076318
+      },
+      {
+        "label": "San Mateo Bovet",
+        "address": "93 Bovet Rd San Mateo, CA 94402",
+        "city": "San Mateo",
+        "lat": 37.549911,
+        "lng": -122.314806
+      },
+      {
+        "label": "Washington",
+        "address": "567 Floresta Boulevard San Leandro, CA 94578",
+        "city": "San Leandro",
+        "lat": 37.7017598,
+        "lng": -122.141506
+      },
+      {
+        "label": "San Leandro",
+        "address": "304 Bayfair Mall San Leandro, CA 94578",
+        "city": "San Leandro",
+        "lat": 37.7249296,
+        "lng": -122.1560768
+      },
+      {
+        "label": "Moraga Rheem",
+        "address": "351 Rheem Blvd. Moraga, CA 94556",
+        "city": "Moraga",
+        "lat": 37.8614045,
+        "lng": -122.1264927
+      }
+    ],
+    "id": "24-hour-fitness"
+  },
+  {
+    "name": "AIMS",
+    "categories": [
+      "Independent Living Skills",
+      "Supported Living Services"
+    ],
+    "subcategories": [],
+    "fundingAccepted": [
+      "RCEB",
+      "GGRC",
+      "ACE FMS"
+    ],
+    "contactName": "Arek Nathanson",
+    "email": "arek@aimsforthefuture.com",
+    "phone": "(510)-856-7833",
+    "website": "www.aimsforthefuture.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "aims"
+  },
+  {
+    "name": "AllCheer",
+    "categories": [
+      "Therapy",
+      "Education"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Speech",
+      "ABA",
+      "Physical",
+      "Early intervention",
+      "Tutoring"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "email": "operations@allcheer.org",
+    "phone": "(415) 275-1838",
+    "website": "www.allcheer.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "",
+        "city": "San Francisco"
+      }
+    ],
+    "id": "allcheer"
+  },
+  {
+    "name": "Bakar Fitness - UCSF",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Sports",
+      "Gym",
+      "Group fitness",
+      "Swim",
+      "Climbing"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Bakar Fitness - UCSF",
+    "email": "member.services@ucsf.edu",
+    "phone": "818-299-4151",
+    "website": "https://campuslifeserviceshome.ucsf.edu/fitness-and-recreation/bakar-fitness-center-ucsf-mission-bay",
+    "locations": [
+      {
+        "label": "UCSF Mission Bay",
+        "address": "1675 Owens St, San Francisco, CA 94158",
+        "city": "San Francisco",
+        "lat": 37.7679911,
+        "lng": -122.392759
+      }
+    ],
+    "id": "bakar-fitness-ucsf"
+  },
+  {
+    "name": "Bay Area Community Resources (BACR)",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Reginald Valenzuela",
+    "email": "rvalenzuela@bacr.org",
+    "phone": "(415) 825-0104",
+    "website": "bacr.org",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "bay-area-community-resources-bacr"
+  },
+  {
+    "name": "Bay Area Discovery Museum",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Kelly McKinley",
+    "email": "contact@badm.org",
+    "phone": "(415)-339-3900",
+    "website": "badm.org",
+    "locations": [
+      {
+        "label": "Sausalito, CA",
+        "address": "Art Studios, 557 McReynolds Rd, Sausalito, CA 94965",
+        "city": "Sausalito",
+        "lat": 37.8590272,
+        "lng": -122.485469
+      }
+    ],
+    "id": "bay-area-discovery-museum"
+  },
+  {
+    "name": "Bay Area Music Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Ian Wilkerson",
+    "email": "ian@bayareamusictherapy.com",
+    "phone": "(707)-595-0995",
+    "website": "bayareamusictherapy.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "bay-area-music-therapy"
+  },
+  {
+    "name": "Bay Play",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Open play"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Andrew Snow",
+    "email": "bayplayoakland@gmail.com",
+    "phone": "(510)-740-9280",
+    "website": "www.bayplayoakland.com",
+    "locations": [
+      {
+        "label": "Oakland, CA",
+        "address": "3275 Ettie St Oakland, CA 94608",
+        "city": "Oakland",
+        "lat": 37.8247775,
+        "lng": -122.2886646
+      }
+    ],
+    "id": "bay-play"
+  },
+  {
+    "name": "Bee You Music Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Erin Gaines",
+    "email": "eringmtbc@beeyoumusictherapy.com",
+    "phone": "(415)-856-9546",
+    "website": "beeyoumusictherapy.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "bee-you-music-therapy"
+  },
+  {
+    "name": "Berkeley Parks and Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Bonnie Mitchell",
+    "email": "recreation@berkeleyca.gov",
+    "phone": "(510) 981-6690",
+    "website": "https://berkeleyca.gov/community-recreation/parks-recreation",
+    "locations": [
+      {
+        "label": "Berkeley, CA",
+        "address": "Berkeley, CA",
+        "city": "Berkeley",
+        "lat": 37.8708393,
+        "lng": -122.272863
+      }
+    ],
+    "id": "berkeley-parks-and-recreation"
+  },
+  {
+    "name": "Bridge to Life",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Speech",
+      "Feeding",
+      "AAC",
+      "Physical"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "phone": "(650) 696-7295",
+    "website": "https://www.bridgeschool.org/bridge-to-life/",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "bridge-to-life"
+  },
+  {
+    "name": "British Swim School Bay Area",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Raquel Rose",
+    "email": "Bayareaofficemanager@britishswimschool.com",
+    "phone": "(650)-502-8986",
+    "website": "britishswimschool.com",
+    "locations": [
+      {
+        "label": "24 Hour Fitness – Ocean Ave. Sport",
+        "address": "1850 Ocean Ave San Francisco, CA 94112",
+        "city": "San Francisco",
+        "lat": 37.7253132,
+        "lng": -122.461745
+      },
+      {
+        "label": "24 Hour Fitness – Potrero Hill",
+        "address": "1645 Bryant Street San Francisco, CA 94103",
+        "city": "San Francisco",
+        "lat": 37.7663141,
+        "lng": -122.4104501
+      },
+      {
+        "label": "Embassy Suites – South San Francisco",
+        "address": "250 Gateway Boulevard South San Francisco, CA 94080",
+        "city": "South San Francisco",
+        "lat": 37.651085,
+        "lng": -122.4037022
+      },
+      {
+        "label": "Millbrae Meadows Swim Club",
+        "address": "1225 Helen Dr, Millbrae, CA 94030",
+        "city": "Millbrae",
+        "lat": 37.6043949,
+        "lng": -122.4219779
+      },
+      {
+        "label": "Aloft Hotel – Millbrae",
+        "address": "401 E Millbrae Ave Millbrae, CA 94030",
+        "city": "Millbrae",
+        "lat": 37.6028159,
+        "lng": -122.3779684
+      },
+      {
+        "label": "Embassy Suites – Burlingame",
+        "address": "150 Anza Blvd Burlingame CA, 94010",
+        "city": "Burlingame",
+        "lat": 37.5916076,
+        "lng": -122.347999
+      },
+      {
+        "label": "El Cerrito Super - Sport Gym",
+        "address": "10636 San Pablo Ave El Cerrito, CA 94530",
+        "city": "El Cerrito",
+        "lat": 37.91234,
+        "lng": -122.3076318
+      },
+      {
+        "label": "24 Hour Fitness – San Mateo Super Sport",
+        "address": "93 Bovet Road San Mateo, CA 94402",
+        "city": "San Mateo",
+        "lat": 37.549911,
+        "lng": -122.314806
+      },
+      {
+        "label": "City Sports Club – Richmond",
+        "address": "4100 Klose Way Richmond, CA 94806",
+        "city": "Richmond",
+        "lat": 37.9828438,
+        "lng": -122.3193123
+      },
+      {
+        "label": "San Leandro",
+        "address": "567 Floresta Blvd San Leandro, CA 94578",
+        "city": "San Leandro",
+        "lat": 37.7017598,
+        "lng": -122.141506
+      },
+      {
+        "label": "Hayward",
+        "address": "24727 Amador St Hayward, CA 94544",
+        "city": "Hayward",
+        "lat": 37.6536176,
+        "lng": -122.0917301
+      },
+      {
+        "label": "24 Hour Fitness – Redwood City",
+        "address": "1050 Broadway Redwood City, CA 94063",
+        "city": "Redwood City",
+        "lat": 37.4871975,
+        "lng": -122.2120044
+      }
+    ],
+    "id": "british-swim-school-bay-area"
+  },
+  {
+    "name": "Build Learn Thrive PC",
+    "categories": [
+      "Social Recreation",
+      "Socialization training",
+      "Therapy"
+    ],
+    "subcategories": [
+      "Camp",
+      "Social skills group",
+      "Occupational",
+      "Speech",
+      "Physical"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Meilani Connolly",
+    "email": "meilani@buildlearnthrive.com",
+    "phone": "(415)-702-0028",
+    "website": "buildlearnthrive.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "309 Judah St. San Francisco, CA 94122",
+        "city": "San Francisco",
+        "lat": 37.7619756,
+        "lng": -122.4654874
+      }
+    ],
+    "id": "build-learn-thrive-pc"
+  },
+  {
+    "name": "Cadence Music Therapy Services",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Yuriko Urushibata",
+    "email": "yuriko@cadencemusictherapy.com",
+    "phone": "(916)-880-0115",
+    "website": "cadencemusictherapy.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "",
+        "city": "San Francisco"
+      }
+    ],
+    "id": "cadence-music-therapy-services"
+  },
+  {
+    "name": "California School of Martial Arts (CALSMA)",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Martial arts"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Charmaine Quitain",
+    "email": "admin@calsma.com",
+    "phone": "(818)-633-9960",
+    "website": "calsma.com",
+    "locations": [
+      {
+        "label": "Daly City, CA",
+        "address": "2025 Gellert Blvd Suite 203, Daly City, CA 94015",
+        "city": "Daly City",
+        "lat": 37.6501426,
+        "lng": -122.4543876
+      }
+    ],
+    "id": "california-school-of-martial-arts-calsma"
+  },
+  {
+    "name": "Camp Doodles",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Brian Yu",
+    "email": "brian@campdoodles.com",
+    "phone": "(415)-388-4386",
+    "website": "campdoodles.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "San Francisco, CA",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      },
+      {
+        "label": "Oakland, CA",
+        "address": "Oakland, CA",
+        "city": "Oakland",
+        "lat": 37.8044557,
+        "lng": -122.271356
+      },
+      {
+        "label": "Orinda, CA",
+        "address": "Orinda, CA",
+        "city": "Orinda",
+        "lat": 37.8771476,
+        "lng": -122.1796888
+      }
+    ],
+    "id": "camp-doodles"
+  },
+  {
+    "name": "Camp Via West",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Alyssa Pecorino",
+    "email": "apecorino@campviawest.org",
+    "phone": "(650)-333-0899",
+    "website": "https://campviawest.org",
+    "locations": [
+      {
+        "label": "Cupertino, CA",
+        "address": "Cupertino, CA",
+        "city": "Cupertino",
+        "lat": 37.3228934,
+        "lng": -122.0322895
+      }
+    ],
+    "id": "camp-via-west"
+  },
+  {
+    "name": "Cartoon Art Museum",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Art"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Cartoon Art Museum",
+    "email": "office@cartoonart.org",
+    "phone": "(415)-022-7866",
+    "website": "www.cartoonart.org/",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "781 Beach St, San Francisco, CA 94109",
+        "city": "San Francisco",
+        "lat": 37.8063768,
+        "lng": -122.4217874
+      }
+    ],
+    "id": "cartoon-art-museum"
+  },
+  {
+    "name": "Child's Play Therapy Services, PC",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Speech",
+      "Feeding"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Christina Gallo",
+    "email": "christina@cptherapyservices.com",
+    "phone": "(925)-954-4546",
+    "website": "www.cptherapyservices.com",
+    "locations": [
+      {
+        "label": "Lafayette, Ca",
+        "address": "3687 Mount Diablo Blvd STE 100, Lafayette, CA 94549",
+        "city": "Lafayette",
+        "lat": 37.8902367,
+        "lng": -122.1294173
+      },
+      {
+        "label": "Pleasanton, CA",
+        "address": "4637 Chabot Dr #106, Pleasanton, CA 94588",
+        "city": "Pleasanton",
+        "lat": 37.6924636,
+        "lng": -121.9006459
+      }
+    ],
+    "id": "child-s-play-therapy-services-pc"
+  },
+  {
+    "name": "City of Fremont Parks and Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Fremont Parks & Rec",
+    "email": "regerec@fremont.gov",
+    "phone": "(510) 494-4300",
+    "website": "fremont.gov",
+    "locations": [
+      {
+        "label": "Fremont, CA",
+        "address": "Fremont, CA",
+        "city": "Fremont",
+        "lat": 37.5482697,
+        "lng": -121.988571
+      }
+    ],
+    "id": "city-of-fremont-parks-and-recreation"
+  },
+  {
+    "name": "City of Novato Parks and Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Alexandra Kambur",
+    "email": "akambur@novato.org",
+    "phone": "(415)-899-8279",
+    "website": "https://www.novato.gov/government/parks-recreation-community-services",
+    "locations": [
+      {
+        "label": "Novato, CA",
+        "address": "Novato, CA",
+        "city": "Novato",
+        "lat": 38.1061979,
+        "lng": -122.5681191
+      }
+    ],
+    "id": "city-of-novato-parks-and-recreation"
+  },
+  {
+    "name": "City of San Leandro Parks & Rec",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "San Leandro Parks & Rec",
+    "email": "slrec@sanleandro.org",
+    "phone": "(510)-577-3462",
+    "website": "https://anc.apm.activecommunities.com/sanleandrorec/home",
+    "locations": [
+      {
+        "label": "San Leandro, CA",
+        "address": "San Leandro, CA",
+        "city": "San Leandro",
+        "lat": 37.7249296,
+        "lng": -122.1560768
+      }
+    ],
+    "id": "city-of-san-leandro-parks-rec"
+  },
+  {
+    "name": "City of San Mateo Parks and Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Michele Venneri",
+    "email": "mvenneri@cityofsanmateo.org",
+    "phone": "(650) 522-7484",
+    "website": "cityofsanmateo.org",
+    "locations": [
+      {
+        "label": "San Mateo, CA",
+        "address": "San Mateo, CA",
+        "city": "San Mateo",
+        "lat": 37.496904,
+        "lng": -122.3330573
+      }
+    ],
+    "id": "city-of-san-mateo-parks-and-recreation"
+  },
+  {
+    "name": "City Sports Club",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Sports",
+      "Gym",
+      "Group fitness",
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Sam Jun",
+    "email": "sam.jun@fitnessintl.com",
+    "phone": "(949)-866-4258",
+    "website": "citysportsfitness.com",
+    "locations": [
+      {
+        "label": "San Francisco - 20th Ave.",
+        "address": "3201 20th Ave San Francisco, CA  94132",
+        "city": "San Francisco",
+        "lat": 37.7297857,
+        "lng": -122.4764171
+      },
+      {
+        "label": "Berkeley",
+        "address": "3100 San Pablo Ave # 110 Berkeley, CA  94702",
+        "city": "Berkeley",
+        "lat": 37.8506249,
+        "lng": -122.2865062
+      },
+      {
+        "label": "Richmond - Klose Way",
+        "address": "4100 Klose Way Richmond, CA  94806",
+        "city": "Richmond",
+        "lat": 37.9828438,
+        "lng": -122.3193123
+      },
+      {
+        "label": "Hayward - Hesperian Blvd.",
+        "address": "24500 Hesperian Blvd Hayward, CA  94545",
+        "city": "Hayward",
+        "lat": 37.650465,
+        "lng": -122.108477
+      },
+      {
+        "label": "Hayward - Foothill Blvd",
+        "address": "22327 Foothill Blvd Hayward, CA  94541",
+        "city": "Hayward",
+        "lat": 37.6782379,
+        "lng": -122.0840459
+      },
+      {
+        "label": "San Jose - E. Brokaw Rd.",
+        "address": "1045 E Brokaw Rd San Jose, CA  95131",
+        "city": "San Jose",
+        "lat": 37.384192,
+        "lng": -121.8981669
+      },
+      {
+        "label": "San Jose - Newhall Dr.",
+        "address": "610 Newhall Drive San Jose, CA  95110",
+        "city": "San Jose",
+        "lat": 37.3492778,
+        "lng": -121.9210589
+      },
+      {
+        "label": "Sunnyvale - E. Arques Ave.",
+        "address": "1165 E Arques Ave Sunnyvale, CA  94085",
+        "city": "Sunnyvale",
+        "lat": 37.3803601,
+        "lng": -122.0023762
+      },
+      {
+        "label": "Fremont - Farwell Dr.",
+        "address": "39153 Farwell Drive Fremont, CA  94538",
+        "city": "Fremont",
+        "lat": 37.5316291,
+        "lng": -121.997637
+      },
+      {
+        "label": "Mountain View (Signature)",
+        "address": "1040 Grant Road, Suite 165 Mountain View, CA  94040",
+        "city": "Mountain View",
+        "lat": 37.3795789,
+        "lng": -122.0751147
+      },
+      {
+        "label": "San Jose - Saratoga Ave (City Sports Club Plus)",
+        "address": "1600 Saratoga Ave 46 San Jose, CA  95129",
+        "city": "San Jose",
+        "lat": 37.3361663,
+        "lng": -121.890591
+      },
+      {
+        "label": "Almaden",
+        "address": "5155 Cherry Ave San Jose, CA  95118",
+        "city": "San Jose",
+        "lat": 37.2598684,
+        "lng": -121.8728323
+      },
+      {
+        "label": "San Jose - Monterey Rd",
+        "address": "5502 Monterey Rd #10 San Jose, CA  95138",
+        "city": "San Jose",
+        "lat": 37.2413138,
+        "lng": -121.7783599
+      }
+    ],
+    "id": "city-sports-club"
+  },
+  {
+    "name": "Color Me Mine - Daly City",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Art"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Mike ColorMeMine",
+    "email": "Dalycity@colormemine.com",
+    "phone": "(650)-756-2706",
+    "website": "www.dalycity.colormemine.com",
+    "locations": [
+      {
+        "label": "Daly City, CA",
+        "address": "445 Colesville Rd. Daly City, CA 94015",
+        "city": "Daly City",
+        "lat": 37.6904826,
+        "lng": -122.47267
+      }
+    ],
+    "id": "color-me-mine-daly-city"
+  },
+  {
+    "name": "Community Music Center SF",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Community Music Center SF",
+    "email": "info@sfcmc.org",
+    "phone": "(415)-647-6015",
+    "website": "sfcmc.org",
+    "locations": [
+      {
+        "label": "Mission District",
+        "address": "544 Capp St, San Francisco, CA 94110",
+        "city": "San Francisco",
+        "lat": 37.7579479,
+        "lng": -122.4182662
+      },
+      {
+        "label": "Richmond District",
+        "address": "741 30th Ave, San Francisco, CA 94121",
+        "city": "San Francisco",
+        "lat": 37.7751019,
+        "lng": -122.4903033
+      }
+    ],
+    "id": "community-music-center-sf"
+  },
+  {
+    "name": "Corte Madera Parks & Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Ali Mann",
+    "email": "recreation_dept@cortemadera.gov",
+    "phone": "(415)-927-5072",
+    "website": "cortemadera.gov/199/Parks-Recreation",
+    "locations": [
+      {
+        "label": "Corte Madera, CA",
+        "address": "Corte Madera, CA",
+        "city": "Corte Madera",
+        "lat": 37.9254806,
+        "lng": -122.527475
+      }
+    ],
+    "id": "corte-madera-parks-recreation"
+  },
+  {
+    "name": "Creative Vibes Music Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Mai Abe",
+    "email": "maiabe@creativevibesmt.com",
+    "phone": "(408)-641-6013",
+    "website": "creativevibesmt.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "creative-vibes-music-therapy"
+  },
+  {
+    "name": "Crunch Fitness",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Group fitness"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Mingo Dennis",
+    "email": "crunchms@crunch.com",
+    "phone": "(877)-427-4788",
+    "website": "www.crunch.com",
+    "locations": [
+      {
+        "label": "Chestnut",
+        "address": "2324 Chestnut St San Francisco, CA 94123",
+        "city": "San Francisco",
+        "lat": 37.800338,
+        "lng": -122.4417487
+      },
+      {
+        "label": "Union Street",
+        "address": "1725 Union St San Francisco, CA 94123",
+        "city": "San Francisco",
+        "lat": 37.7978454,
+        "lng": -122.4277433
+      },
+      {
+        "label": "Polk St",
+        "address": "2330 Polk St San Francisco, CA 94109",
+        "city": "San Francisco",
+        "lat": 37.7983728,
+        "lng": -122.421947
+      },
+      {
+        "label": "Yerba Buena",
+        "address": "350 Third St San Francisco, CA 94107",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      },
+      {
+        "label": "Daly City, CA",
+        "address": "60 Serramonte Center Daly City, CA 94015",
+        "city": "Daly City",
+        "lat": 37.6722493,
+        "lng": -122.4706292
+      },
+      {
+        "label": "Alameda",
+        "address": "2247 South Shore Center Alameda, CA 94501",
+        "city": "Alameda",
+        "lat": 37.7568076,
+        "lng": -122.2501266
+      },
+      {
+        "label": "San Rafael",
+        "address": "38 Gary Place San Rafael, CA 94901",
+        "city": "San Rafael",
+        "lat": 37.9589392,
+        "lng": -122.5085471
+      },
+      {
+        "label": "San Mateo",
+        "address": "1150 Park Place San Mateo, CA 94403",
+        "city": "San Mateo",
+        "lat": 37.5453893,
+        "lng": -122.2904049
+      },
+      {
+        "label": "San Lorenzo",
+        "address": "177 Lewelling Blvd San Lorenzo, CA 94580",
+        "city": "San Lorenzo",
+        "lat": 37.6875325,
+        "lng": -122.1256011
+      },
+      {
+        "label": "Walnut Creek, CA",
+        "address": "2830 Ygnacio Valley Rd Walnut Creek, CA 94598",
+        "city": "Walnut Creek",
+        "lat": 37.9262657,
+        "lng": -122.0178032
+      },
+      {
+        "label": "Sunnyvale",
+        "address": "1651 Hollenbeck Ave Sunnyvale, CA 94087",
+        "city": "Sunnyvale",
+        "lat": 37.3407659,
+        "lng": -122.0415961
+      },
+      {
+        "label": "Fairfield",
+        "address": "1500 Oliver Road Fairfield, CA 94534",
+        "city": "Fairfield",
+        "lat": 38.2598636,
+        "lng": -122.0687766
+      },
+      {
+        "label": "Winchester",
+        "address": "1333 South Winchester Blvd San Jose, CA 95128",
+        "city": "San Jose",
+        "lat": 37.3000438,
+        "lng": -121.9509422
+      },
+      {
+        "label": "San Jose",
+        "address": "375A N. Capitol Ave San Jose, CA 95133",
+        "city": "San Jose",
+        "lat": 37.3361663,
+        "lng": -121.890591
+      },
+      {
+        "label": "Santa Rosa",
+        "address": "1630 Range Ave Santa Rosa, CA 95401",
+        "city": "Santa Rosa",
+        "lat": 38.4555456,
+        "lng": -122.7320243
+      }
+    ],
+    "id": "crunch-fitness"
+  },
+  {
+    "name": "Cupertino Parks and Recreation",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Cupertino Parks & Rec",
+    "email": "sonyal@cupertino.com",
+    "phone": "(408)-777-3121",
+    "website": "https://www.cupertino.gov/Parks-Recreation",
+    "locations": [
+      {
+        "label": "Cupertino, CA",
+        "address": "Cupertino, CA",
+        "city": "Cupertino",
+        "lat": 37.3228934,
+        "lng": -122.0322895
+      }
+    ],
+    "id": "cupertino-parks-and-recreation"
+  },
+  {
+    "name": "De Colores Arts",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Art"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "NBRC",
+      "ACE FMS"
+    ],
+    "contactName": "Shana Murray",
+    "email": "smurray@decoloresarts.org",
+    "phone": "(415)-578-0410",
+    "website": "decoloresarts.org",
+    "locations": [
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      }
+    ],
+    "id": "de-colores-arts"
+  },
+  {
+    "name": "Dublin Parks and Community Services",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Sanjiv Bhatia",
+    "email": "DublinArtsCenter@dublin.ca.gov",
+    "phone": "(925)-556-4500",
+    "website": "dublin.ca.gov",
+    "locations": [
+      {
+        "label": "Dublin, CA",
+        "address": "Dublin, CA",
+        "city": "Dublin",
+        "lat": 37.7021521,
+        "lng": -121.9357918
+      }
+    ],
+    "id": "dublin-parks-and-community-services"
+  },
+  {
+    "name": "Equinox Gym (All locations)",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Sports",
+      "Gym",
+      "Group fitness",
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Gary Khara",
+    "email": "gary.khara@equinox.com",
+    "phone": "(310)-924-6809",
+    "website": "equinox.com",
+    "locations": [
+      {
+        "label": "Equinox Van Mission",
+        "address": "1560 Mission St, San Francisco, CA 94103",
+        "city": "San Francisco",
+        "lat": 37.7739233,
+        "lng": -122.4177782
+      },
+      {
+        "label": "Equinox Sports Club San Francisco",
+        "address": "747 Market St, San Francisco, CA 94103",
+        "city": "San Francisco",
+        "lat": 37.7865523,
+        "lng": -122.404501
+      },
+      {
+        "label": "Equinox Union Street",
+        "address": "2055 Union St, San Francisco, CA 94123",
+        "city": "San Francisco",
+        "lat": 37.7971054,
+        "lng": -122.4330789
+      },
+      {
+        "label": "Equinox Pine Street",
+        "address": "301 Pine St, San Francisco, CA 94104",
+        "city": "San Francisco",
+        "lat": 37.7918287,
+        "lng": -122.4013004
+      },
+      {
+        "label": "Equinox Beale Street",
+        "address": "320 Mission St, San Francisco, CA 94105",
+        "city": "San Francisco",
+        "lat": 37.7910183,
+        "lng": -122.3961309
+      },
+      {
+        "label": "Equinox Berkeley",
+        "address": "2600 Shattuck Ave., Berkeley, CA 94704",
+        "city": "Berkeley",
+        "lat": 37.8614763,
+        "lng": -122.2674056
+      },
+      {
+        "label": "Equinox San Mateo",
+        "address": "4 E 4th Ave, San Mateo, CA 94401",
+        "city": "San Mateo",
+        "lat": 37.562256,
+        "lng": -122.32482
+      },
+      {
+        "label": "Equinox San Ramon",
+        "address": "6000 Bollinger Canyon Rd, San Ramon, CA 94583",
+        "city": "San Ramon",
+        "lat": 37.7629355,
+        "lng": -121.959808
+      },
+      {
+        "label": "Equinox Palo Alto",
+        "address": "440 Portage Ave, Palo Alto, CA 94306",
+        "city": "Palo Alto",
+        "lat": 37.422011,
+        "lng": -122.138136
+      }
+    ],
+    "id": "equinox-gym-all-locations"
+  },
+  {
+    "name": "Exploring Music",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Exploring Music",
+    "email": "SF@exploringmusicusa.com",
+    "phone": "(415)-831-2500",
+    "website": "exploringmusicusa.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "814 Clement St. San Francisco, CA 94118",
+        "city": "San Francisco",
+        "lat": 37.7830452,
+        "lng": -122.468025
+      }
+    ],
+    "id": "exploring-music"
+  },
+  {
+    "name": "Galileo Camp",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Galileo Camps",
+    "email": "info@galileo-learning.com",
+    "phone": "800-854-3684",
+    "website": "galileo-learning.com",
+    "locations": [
+      {
+        "label": "Alameda",
+        "address": "Alameda, CA",
+        "city": "Alameda",
+        "lat": 37.6090291,
+        "lng": -121.899142
+      },
+      {
+        "label": "Berkeley",
+        "address": "Berkeley, CA",
+        "city": "Berkeley",
+        "lat": 37.8708393,
+        "lng": -122.272863
+      },
+      {
+        "label": "Burlingame",
+        "address": "Burlingame, CA",
+        "city": "Burlingame",
+        "lat": 37.5780965,
+        "lng": -122.3473099
+      },
+      {
+        "label": "Cupertino",
+        "address": "Cupertino, CA",
+        "city": "Cupertino",
+        "lat": 37.3228934,
+        "lng": -122.0322895
+      },
+      {
+        "label": "Fremont",
+        "address": "Fremont, CA",
+        "city": "Fremont",
+        "lat": 37.5482697,
+        "lng": -121.988571
+      },
+      {
+        "label": "Lafayette",
+        "address": "Lafayette, CA",
+        "city": "Lafayette",
+        "lat": 37.8857582,
+        "lng": -122.1180201
+      },
+      {
+        "label": "Los Altos",
+        "address": "Los Altos, CA",
+        "city": "Los Altos",
+        "lat": 37.3790629,
+        "lng": -122.116578
+      },
+      {
+        "label": "Marin",
+        "address": "Marin, CA",
+        "city": "Marin",
+        "lat": 38.0409144,
+        "lng": -122.6199638
+      },
+      {
+        "label": "Menlo Park",
+        "address": "Menlo Park, CA",
+        "city": "Menlo Park",
+        "lat": 37.4519671,
+        "lng": -122.177992
+      },
+      {
+        "label": "North San Jose",
+        "address": "North San Jose, CA",
+        "city": "San Jose",
+        "lat": 37.3837359,
+        "lng": -121.9205071
+      },
+      {
+        "label": "Oakland (Glenview)",
+        "address": "Glenview, Oakland, CA",
+        "city": "Oakland",
+        "lat": 37.8072396,
+        "lng": -122.2214432
+      },
+      {
+        "label": "Oakland (Rockridge)",
+        "address": "Rockridge, Oakland, CA",
+        "city": "Oakland",
+        "lat": 37.8447574,
+        "lng": -122.2512573
+      },
+      {
+        "label": "Palo Alto",
+        "address": "Palo Alto, CA",
+        "city": "Palo Alto",
+        "lat": 37.4443293,
+        "lng": -122.1598465
+      },
+      {
+        "label": "Pleasanton",
+        "address": "Pleasanton, CA",
+        "city": "Pleasanton",
+        "lat": 37.6624312,
+        "lng": -121.8746789
+      },
+      {
+        "label": "San Carlos/Belmont",
+        "address": "San Carlos, CA",
+        "city": "San Carlos",
+        "lat": 37.504936,
+        "lng": -122.261823
+      },
+      {
+        "label": "San Francisco (North)",
+        "address": "Hayes Valley, San Francisco",
+        "city": "San Francisco",
+        "lat": 37.7766853,
+        "lng": -122.4229361
+      },
+      {
+        "label": "San Francisco (Twin Peaks/Noe Valley)",
+        "address": "Twin Peaks, San Francisco, CA",
+        "city": "San Francisco",
+        "lat": 37.7524145,
+        "lng": -122.4475866
+      },
+      {
+        "label": "San Jose (Almaden)",
+        "address": "Almaden, San Jose, CA",
+        "city": "San Jose",
+        "lat": 37.2216072,
+        "lng": -121.8617567
+      },
+      {
+        "label": "San Mateo",
+        "address": "San Mateo, CA",
+        "city": "San Mateo",
+        "lat": 37.496904,
+        "lng": -122.3330573
+      },
+      {
+        "label": "San Ramon",
+        "address": "San Ramon, CA",
+        "city": "San Ramon",
+        "lat": 37.7648021,
+        "lng": -121.9544387
+      },
+      {
+        "label": "Saratoga",
+        "address": "Saratoga, CA",
+        "city": "Saratoga",
+        "lat": 37.2638324,
+        "lng": -122.0230146
+      },
+      {
+        "label": "Sunnyvale",
+        "address": "Sunnyvale, CA",
+        "city": "Sunnyvale",
+        "lat": 37.3688301,
+        "lng": -122.036349
+      },
+      {
+        "label": "Walnut Creek",
+        "address": "Walnut Creek, CA",
+        "city": "Walnut Creek",
+        "lat": 37.9020731,
+        "lng": -122.0618702
+      }
+    ],
+    "id": "galileo-camp"
+  },
+  {
+    "name": "Game U",
+    "categories": [
+      "Social Recreation",
+      "Technology",
+      "Communication",
+      "Training"
+    ],
+    "subcategories": [
+      "Art",
+      "STEM",
+      "Gaming"
+    ],
+    "fundingAccepted": [
+      "ALTA",
+      "GGRC",
+      "SARC",
+      "RCEB",
+      "ACE FMS"
+    ],
+    "contactName": "Calvin Lyles",
+    "email": "cabilling@gameucorp.com",
+    "phone": "(908) 628-1379",
+    "website": "game-u.com",
+    "locations": [
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      }
+    ],
+    "id": "game-u"
+  },
+  {
+    "name": "Golden Hills Academy",
+    "categories": [
+      "Education",
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "TK-8",
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Shana Kenney",
+    "email": "allchildrenacademics@gmail.com",
+    "phone": "(415)-595-1762",
+    "website": "goldenhillsacademy.com",
+    "locations": [
+      {
+        "label": "Novato, CA",
+        "address": "64 Digital Dr, Novato, CA 94949",
+        "city": "Novato",
+        "lat": 38.0708005,
+        "lng": -122.5310555
+      }
+    ],
+    "id": "golden-hills-academy"
+  },
+  {
+    "name": "Gravity Vault - Marin County",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Climbing"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Gravity Vault Indoor Rock Climbing Gym",
+    "email": "marin@gravityvault.com",
+    "phone": "(415)-472-9344",
+    "website": "gravityvault.com",
+    "locations": [
+      {
+        "label": "San Rafael, CA",
+        "address": "440 Smith Ranch Road San Rafael, CA 94903",
+        "city": "San Rafael",
+        "lat": 38.0179004,
+        "lng": -122.5216061
+      }
+    ],
+    "id": "gravity-vault-marin-county"
+  },
+  {
+    "name": "Guerrilla Jiu Jitsu",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Jiu Jitsu"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "James Terry",
+    "email": "info@guerrillamartialarts.com",
+    "phone": "(925)-598-0089",
+    "website": "guerrillajiujitsupleasanton.com",
+    "locations": [
+      {
+        "label": "Pleasanton, CA",
+        "address": "6654 Koll Center Pkwy. STE 185 Pleasanton, CA 94566",
+        "city": "Pleasanton",
+        "lat": 37.6586112,
+        "lng": -121.898547
+      }
+    ],
+    "id": "guerrilla-jiu-jitsu"
+  },
+  {
+    "name": "Han Martial Arts",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Martial arts"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Han Martial Arts",
+    "email": "information@hanmartialarts.com",
+    "phone": "(510)-336-0699",
+    "website": "hanmartialarts.com",
+    "locations": [
+      {
+        "label": "Oakland, CA",
+        "address": "2220 Mountain Blvd, Oakland, CA 94611",
+        "city": "Oakland",
+        "lat": 37.8233588,
+        "lng": -122.2083015
+      }
+    ],
+    "id": "han-martial-arts"
+  },
+  {
+    "name": "Hiller Aviation Museum",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Lanie Hiller",
+    "email": "lanie@hiller.org",
+    "phone": "(650) 654-0200",
+    "website": "hiller.org",
+    "locations": [
+      {
+        "label": "San Carlos, CA",
+        "address": "601 Skyway Rd, San Carlos, CA 94070",
+        "city": "San Carlos",
+        "lat": 37.5126952,
+        "lng": -122.2529222
+      }
+    ],
+    "id": "hiller-aviation-museum"
+  },
+  {
+    "name": "House of Air",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Open play"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Dave Schaeffer",
+    "email": "info@houseofair.com",
+    "website": "houseofair.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "926 Mason St, San Francisco, CA 94129",
+        "city": "San Francisco",
+        "lat": 37.804903,
+        "lng": -122.4687944
+      }
+    ],
+    "id": "house-of-air"
+  },
+  {
+    "name": "iD Tech Camps",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Kimberly Frinell",
+    "email": "info@idtech.com",
+    "phone": "(888)-709-8324",
+    "website": "idtech.com",
+    "locations": [
+      {
+        "label": "San Francisco State University",
+        "address": "1600 Holloway Ave, San Francisco, CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7206091,
+        "lng": -122.480765
+      },
+      {
+        "label": "Santa Clara University",
+        "address": "500 El Camino Real, Santa Clara, CA 95053",
+        "city": "Santa Clara",
+        "lat": 37.3505152,
+        "lng": -121.9367171
+      },
+      {
+        "label": "Stanford University",
+        "address": "450 Jane Stanford Way, Stanford, CA 94305",
+        "city": "Stanford",
+        "lat": 37.4327332,
+        "lng": -122.1755
+      },
+      {
+        "label": "Palo Alto High School",
+        "address": "50 Embarcadero Rd, Palo Alto, CA 94301",
+        "city": "Palo Alto",
+        "lat": 37.4358242,
+        "lng": -122.1553327
+      },
+      {
+        "label": "UC Berkeley",
+        "address": "2357 Haste St, Berkeley, CA 94720",
+        "city": "Berkeley",
+        "lat": 37.8656897,
+        "lng": -122.2619378
+      }
+    ],
+    "id": "id-tech-camps"
+  },
+  {
+    "name": "INTERCONNECT THERAPY",
+    "categories": [
+      "Social Recreation",
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Camp",
+      "Social skills group"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Taylour Ganster",
+    "email": "taylour@interconnect-therapy.org",
+    "phone": "(415)-226-9924",
+    "website": "interconnect-therapy.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "1916 Lawton St. San Francisco, CA 94122",
+        "city": "San Francisco",
+        "lat": 37.7578638,
+        "lng": -122.4835913
+      }
+    ],
+    "id": "interconnect-therapy"
+  },
+  {
+    "name": "Jewish Community Center of San Francisco",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Edna Vaknin",
+    "email": "support@jccsf.org",
+    "phone": "(415)-333-4289",
+    "website": "jccsf.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "3200 California Street, San Francisco, CA 94118",
+        "city": "San Francisco",
+        "lat": 37.7873854,
+        "lng": -122.4478439
+      },
+      {
+        "label": "Brotherhood Way Preschool",
+        "address": "655 Brotherhood Way, San Francisco, CA 94132",
+        "city": "San Francisco",
+        "lat": 37.713404,
+        "lng": -122.4755055
+      }
+    ],
+    "id": "jewish-community-center-of-san-francisco"
+  },
+  {
+    "name": "Joyscape Therapy",
+    "categories": [
+      "Therapy",
+      "Socialization training"
+    ],
+    "subcategories": [
+      "ABA",
+      "Social skills group"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Hanh Doan",
+    "email": "admin@joyscapetherapy.com",
+    "phone": "(408)-320-5139",
+    "website": "www.joyscapetherapy.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      }
+    ],
+    "id": "joyscape-therapy"
+  },
+  {
+    "name": "Junior Museum & Zoo, Palo Alto",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "John Aikin",
+    "email": "funscience@CityofPaloAlto.org",
+    "phone": "(650)-329-2111",
+    "website": "paloaltozoo.org",
+    "locations": [
+      {
+        "label": "Palo Alto, CA",
+        "address": "1451 Middlefield Rd, Palo Alto, CA 94301",
+        "city": "Palo Alto",
+        "lat": 37.4434284,
+        "lng": -122.1444282
+      }
+    ],
+    "id": "junior-museum-zoo-palo-alto"
+  },
+  {
+    "name": "Kalmanovitz Child Development Center",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Speech",
+      "Physical",
+      "Early intervention",
+      "Feeding"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "phone": "(415) 600-6200",
+    "website": "https://www.sutterhealth.org/giving/giving-opportunities/women-and-children-health/kalmanovitz-child-development-center",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "1625 Van Ness Ave 3rd Floor, San Francisco, CA 94109",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      }
+    ],
+    "id": "kalmanovitz-child-development-center"
+  },
+  {
+    "name": "KFS school",
+    "categories": [
+      "Social Recreation",
+      "Socialization training",
+      "Education"
+    ],
+    "subcategories": [
+      "Camp",
+      "Social skills group",
+      "K-5",
+      "6-8"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Vanessa Kahlon",
+    "email": "vanessa.kahlon@kfsschool.org",
+    "phone": "(415)-525-4035",
+    "website": "www.kfsschool.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "3140 Balboa St. San Francisco, CA 94121",
+        "city": "San Francisco",
+        "lat": 37.7760207,
+        "lng": -122.4924359
+      }
+    ],
+    "id": "kfs-school"
+  },
+  {
+    "name": "La Petite Baleen",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Vanessa Baluyot",
+    "email": "accounting@swimlpb.com",
+    "phone": "(866)-896-3603",
+    "website": "swimlpb.com",
+    "locations": [
+      {
+        "label": "San Francisco",
+        "address": "933 Mason St, San Francisco, CA 94129",
+        "city": "San Francisco",
+        "lat": 37.8054101,
+        "lng": -122.4691397
+      },
+      {
+        "label": "Half Moon Bay",
+        "address": "775 Main St, Half Moon Bay, CA 94019",
+        "city": "Half Moon Bay",
+        "lat": 37.4594317,
+        "lng": -122.4297623
+      },
+      {
+        "label": "San Bruno",
+        "address": "434 San Mateo Ave, San Bruno, CA 94066",
+        "city": "San Bruno",
+        "lat": 37.6223601,
+        "lng": -122.4111374
+      },
+      {
+        "label": "Redwood City",
+        "address": "60 Fifth Ave, Redwood City, CA 94063",
+        "city": "Redwood City",
+        "lat": 37.4863239,
+        "lng": -122.232523
+      },
+      {
+        "label": "Rohnert Park",
+        "address": "Raley’s Towne Centre, 600, Rohnert Park, CA 94928",
+        "city": "Rohnert Park",
+        "lat": 38.3396367,
+        "lng": -122.701098
+      }
+    ],
+    "id": "la-petite-baleen"
+  },
+  {
+    "name": "Lavner Education",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Michael Lavner",
+    "email": "michael@lavnercamps.com",
+    "phone": "(610)-664-8800",
+    "website": "lavnercamps.com",
+    "locations": [
+      {
+        "label": "SFSU",
+        "address": "1600 Holloway Ave, San Francisco, CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7206091,
+        "lng": -122.480765
+      },
+      {
+        "label": "Fusion Academy - San Francisco",
+        "address": "1160 Battery Street, San Francisco, CA 94111",
+        "city": "San Francisco",
+        "lat": 37.801935,
+        "lng": -122.4016168
+      },
+      {
+        "label": "Fusion Academy - San Mateo Foster City",
+        "address": "1840 Gateway Drive, San Mateo, CA 94404",
+        "city": "San Mateo",
+        "lat": 37.5571784,
+        "lng": -122.2800696
+      },
+      {
+        "label": "Mountain View Academy",
+        "address": "360 S Shoreline Blvd, Mountain View, CA 94041",
+        "city": "Mountain View",
+        "lat": 37.3939264,
+        "lng": -122.0852172
+      },
+      {
+        "label": "Palo Alto High School",
+        "address": "50 Embarcadero Road, Palo Alto, CA 94301",
+        "city": "Palo Alto",
+        "lat": 37.4358242,
+        "lng": -122.1553327
+      }
+    ],
+    "id": "lavner-education"
+  },
+  {
+    "name": "Little Hands Occupational Therapy, Inc",
+    "categories": [
+      "Therapy",
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Speech",
+      "Group",
+      "Feeding",
+      "Behavior",
+      "Social skills group"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Gabrielle Perelmuter",
+    "email": "billing@littlehandsot.com",
+    "phone": "(415)-758-2768",
+    "website": "www.littlehandsot.com",
+    "locations": [
+      {
+        "label": "Corte Madera, CA",
+        "address": "500 Tamal Plaza Suite 505 Corte Madera, CA 94925",
+        "city": "Corte Madera",
+        "lat": 37.9364258,
+        "lng": -122.519015
+      }
+    ],
+    "id": "little-hands-occupational-therapy-inc"
+  },
+  {
+    "name": "Livermore Area Recreation and Park Department",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Makenna Nation",
+    "email": "mnation@larpd.org",
+    "phone": "(925)-373-5731",
+    "website": "larpd.org",
+    "locations": [
+      {
+        "label": "Livermore, CA",
+        "address": "Livermore, CA",
+        "city": "Livermore",
+        "lat": 37.6820583,
+        "lng": -121.768053
+      }
+    ],
+    "id": "livermore-area-recreation-and-park-department"
+  },
+  {
+    "name": "Logopedia Speech & Language Therapy, Inc.",
+    "categories": [
+      "Social Recreation",
+      "Socialization training",
+      "Therapy",
+      "Parent training"
+    ],
+    "subcategories": [
+      "Camp",
+      "Playgroup",
+      "Speech",
+      "Feeding",
+      "AAC",
+      "Early intervention",
+      "DIR Floortime"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "ACE FMS"
+    ],
+    "contactName": "Maribel Serrano Holder",
+    "email": "maribel@logopediasf.com",
+    "phone": "(415)-226-7049",
+    "website": "logopediasf.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "4156 24th St, San Francisco, CA 94114",
+        "city": "San Francisco",
+        "lat": 37.7513087,
+        "lng": -122.435386
+      }
+    ],
+    "id": "logopedia-speech-language-therapy-inc"
+  },
+  {
+    "name": "Magic Cottage Preschool",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Preschool"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Jane Yurkevich",
+    "email": "jyurkevich@gmail.com",
+    "phone": "(415)-347-5645",
+    "website": "https://sites.google.com/view/magic-cottage-preschool",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "1427 11th Ave, San Francisco CA 94122",
+        "city": "San Francisco",
+        "lat": 37.7615344,
+        "lng": -122.4685559
+      }
+    ],
+    "id": "magic-cottage-preschool"
+  },
+  {
+    "name": "Movement Climbing LLC",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Climbing",
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Lucas Klein",
+    "email": "lucas.klein@movementgyms.com",
+    "phone": "(650)-591-3030",
+    "website": "movementgyms.com",
+    "locations": [
+      {
+        "label": "Mountain View",
+        "address": "630 San Antonio Rd, Mountain View, CA 94040",
+        "city": "Mountain View",
+        "lat": 37.4020547,
+        "lng": -122.1128012
+      },
+      {
+        "label": "Belmont",
+        "address": "100 El Camino Real, Belmont, CA 94002",
+        "city": "Belmont",
+        "lat": 37.5289282,
+        "lng": -122.2875963
+      },
+      {
+        "label": "San Francisco",
+        "address": "924 Mason St, San Francisco, CA 94129",
+        "city": "San Francisco",
+        "lat": 37.8043769,
+        "lng": -122.4684092
+      },
+      {
+        "label": "Santa Clara",
+        "address": "801 Martin Ave, Santa Clara, CA 95050",
+        "city": "Santa Clara",
+        "lat": 37.3662248,
+        "lng": -121.9500002
+      },
+      {
+        "label": "Sunnyvale",
+        "address": "815 Stewart Dr, Sunnyvale, CA 94085",
+        "city": "Sunnyvale",
+        "lat": 37.384415,
+        "lng": -122.0105543
+      }
+    ],
+    "id": "movement-climbing-llc"
+  },
+  {
+    "name": "Napa School of Music",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Ralf Lindner",
+    "email": "frontdesk@napaschoolofmusic.com",
+    "phone": "(707) 252-4040",
+    "website": "napaschoolofmusic.com",
+    "locations": [
+      {
+        "label": "Napa, CA",
+        "address": "702 Trancas St, Suite 200, Napa, CA 94558",
+        "city": "Napa",
+        "lat": 38.3247484,
+        "lng": -122.2893912
+      }
+    ],
+    "id": "napa-school-of-music"
+  },
+  {
+    "name": "Oakland Zoo",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Oakland Zoo Camp",
+    "email": "Zoocamp@oaklandzoo.org",
+    "phone": "(510)-632-9525",
+    "website": "oaklandzoo.org",
+    "locations": [
+      {
+        "label": "Oakland, CA",
+        "address": "9777 Golf Links Rd, Oakland, CA 94605",
+        "city": "Oakland",
+        "lat": 37.7534496,
+        "lng": -122.1388232
+      }
+    ],
+    "id": "oakland-zoo"
+  },
+  {
+    "name": "Open Mind School",
+    "categories": [
+      "Education",
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "K-12",
+      "Camp",
+      "Afterschool",
+      "Fitness",
+      "Ninja warrior"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Open Mind Center",
+    "email": "info@openmindschool.org",
+    "phone": "(650)-260-3805",
+    "website": "https://www.openmindschool.org",
+    "locations": [
+      {
+        "label": "Menlo Park, CA",
+        "address": "1215 O'Brien Dr, Menlo Park, CA 94025",
+        "city": "Menlo Park",
+        "lat": 37.4758659,
+        "lng": -122.1471981
+      }
+    ],
+    "id": "open-mind-school"
+  },
+  {
+    "name": "Outschool",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Online classes"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Outschool Online Classes",
+    "email": "billing@outschool.com",
+    "phone": "(415)-968-1685",
+    "website": "outschool.com",
+    "locations": [
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      }
+    ],
+    "id": "outschool"
+  },
+  {
+    "name": "Peer Play SF",
+    "categories": [
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Play group"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "ACE FMS"
+    ],
+    "contactName": "Francisco Rocco",
+    "email": "info@peerplaysfbay.com",
+    "phone": "(510)-394-5630",
+    "website": "peerplaysfbay.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "1426 Fillmore St. Suite 317 San Francisco CA",
+        "city": "San Francisco",
+        "lat": 37.7832083,
+        "lng": -122.4322955
+      }
+    ],
+    "id": "peer-play-sf"
+  },
+  {
+    "name": "Peninsula Associates Speech Therapy Services",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Speech",
+      "Feeding",
+      "AAC",
+      "Early intervention"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "phone": "650-844-0866",
+    "website": "https://paspeech.com",
+    "locations": [
+      {
+        "label": "Menlo Park",
+        "address": "1220 University Drive, Suite 202 Menlo Park, CA 94025",
+        "city": "Menlo Park",
+        "lat": 37.4511082,
+        "lng": -122.1880803
+      },
+      {
+        "label": "San Jose",
+        "address": "100 O’Connor Dr #21 San Jose, CA 95128",
+        "city": "San Jose",
+        "lat": 37.3242693,
+        "lng": -121.9377562
+      }
+    ],
+    "id": "peninsula-associates-speech-therapy-services"
+  },
+  {
+    "name": "Peninsula Jewish Community Center",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "PJCC",
+    "email": "memberservices@pjcc.org",
+    "phone": "(650)-227-9324",
+    "website": "pjcc.org",
+    "locations": [
+      {
+        "label": "Foster City, CA",
+        "address": "800 Foster City Blvd, Foster City, CA 94404",
+        "city": "Foster City",
+        "lat": 37.5584349,
+        "lng": -122.2662905
+      }
+    ],
+    "id": "peninsula-jewish-community-center"
+  },
+  {
+    "name": "Planet Fitness",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Group fitness"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Planet Fitness",
+    "phone": "(951)-845-0966",
+    "website": "planetfitness.com",
+    "locations": [
+      {
+        "label": "San Francisco (Lakeshore), CA",
+        "address": "1533 Sloat Blvd, San Francisco, CA 94132-1222",
+        "city": "San Francisco",
+        "lat": 37.7342769,
+        "lng": -122.4893543
+      },
+      {
+        "label": "Daly City, CA",
+        "address": "2945 Junipero Serra Blvd, Daly City, CA 94014-2549",
+        "city": "Daly City",
+        "lat": 37.6875841,
+        "lng": -122.4699827
+      },
+      {
+        "label": "San Francisco, CA",
+        "address": "417 Montgomery St, San Francisco, CA 94104",
+        "city": "San Francisco",
+        "lat": 37.7933839,
+        "lng": -122.4032165
+      },
+      {
+        "label": "San Bruno, CA",
+        "address": "1150 El Camino Real, Unit 209, San Bruno, CA 94066",
+        "city": "San Bruno",
+        "lat": 37.6366277,
+        "lng": -122.4168627
+      },
+      {
+        "label": "Oakland (Market St), CA",
+        "address": "900 Market St, #301, Oakland, CA 94607",
+        "city": "Oakland",
+        "lat": 37.8028176,
+        "lng": -122.281484
+      },
+      {
+        "label": "Emeryville, CA",
+        "address": "4349 San Pablo Ave, Emeryville, CA 94608",
+        "city": "Emeryville",
+        "lat": 37.8339415,
+        "lng": -122.2812482
+      },
+      {
+        "label": "Oakland (Hegenberger Rd), CA",
+        "address": "610 Hegenberger Rd, Oakland, CA 94621",
+        "city": "Oakland",
+        "lat": 37.7504464,
+        "lng": -122.1962034
+      },
+      {
+        "label": "Oakland, CA",
+        "address": "4055 Macarthur Blvd, Oakland, CA 94619-1903",
+        "city": "Oakland",
+        "lat": 37.7899907,
+        "lng": -122.1974113
+      },
+      {
+        "label": "Richmond, CA",
+        "address": "4925 Macdonald Ave, Richmond, CA 94805",
+        "city": "Richmond",
+        "lat": 37.9331076,
+        "lng": -122.3230559
+      },
+      {
+        "label": "San Mateo, CA",
+        "address": "1850 S Norfolk St, San Mateo, CA 94403-1102",
+        "city": "San Mateo",
+        "lat": 37.5553151,
+        "lng": -122.2930678
+      },
+      {
+        "label": "San Pablo, CA",
+        "address": "13222 San Pablo Ave, San Pablo, CA 94806",
+        "city": "San Pablo",
+        "lat": 37.9534692,
+        "lng": -122.3336042
+      },
+      {
+        "label": "East Oakland, CA",
+        "address": "10715 Macarthur Blvd, Oakland, CA 94605-5257",
+        "city": "Oakland",
+        "lat": 37.7417853,
+        "lng": -122.1503168
+      },
+      {
+        "label": "Pinole, CA",
+        "address": "1570 Fitzgerald Dr, Pinole, CA 94564",
+        "city": "Pinole",
+        "lat": 37.9915859,
+        "lng": -122.3028506
+      },
+      {
+        "label": "Hayward, CA",
+        "address": "214 B Southland Mall Dr, Hayward, CA 94545",
+        "city": "Hayward",
+        "lat": 37.6688205,
+        "lng": -122.080796
+      },
+      {
+        "label": "Redwood City, CA",
+        "address": "242 Walnut St, Redwood City, CA 94063-1717",
+        "city": "Redwood City",
+        "lat": 37.4927883,
+        "lng": -122.224922
+      },
+      {
+        "label": "Walnut Creek, CA",
+        "address": "1697 Mt Diablo Blvd, Walnut Creek, CA 94596-4517",
+        "city": "Walnut Creek",
+        "lat": 37.8972697,
+        "lng": -122.0630217
+      },
+      {
+        "label": "Fremont (North), CA",
+        "address": "35630 Fremont Blvd, Fremont, CA 94536",
+        "city": "Fremont",
+        "lat": 37.5672289,
+        "lng": -122.0246193
+      },
+      {
+        "label": "Vallejo (Central), CA",
+        "address": "42 Springstowne Ctr, Vallejo, CA 94591-5566",
+        "city": "Vallejo",
+        "lat": 38.1045008,
+        "lng": -122.2158952
+      }
+    ],
+    "id": "planet-fitness"
+  },
+  {
+    "name": "Pomeroy Recreation and Rehabilitation Center",
+    "categories": [
+      "Social Recreation",
+      "Socialization training",
+      "Respite"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Swim",
+      "Facility"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "ACE FMS"
+    ],
+    "contactName": "Celina Lam",
+    "email": "clam@prrcsf.org",
+    "phone": "(415)-213-8502",
+    "website": "prrcsf.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "207 Skyline Blvd San Francisco, CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7300865,
+        "lng": -122.5015123
+      }
+    ],
+    "id": "pomeroy-recreation-and-rehabilitation-center"
+  },
+  {
+    "name": "Project Commotion",
+    "categories": [
+      "Social Recreation",
+      "Education"
+    ],
+    "subcategories": [
+      "Dance",
+      "Youth sports",
+      "Music",
+      "Open play",
+      "Preschool"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Susan PC",
+    "email": "susan@projectcommotion.org",
+    "phone": "(415)-252-8059",
+    "website": "projectcommotion.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "2095 Harrison Street, San Francisco, CA 94110",
+        "city": "San Francisco",
+        "lat": 37.7643788,
+        "lng": -122.4128527
+      }
+    ],
+    "id": "project-commotion"
+  },
+  {
+    "name": "Quest Therapeutic Camps, Inc. (Bay Area)",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool"
+    ],
+    "fundingAccepted": [
+      "RCEB",
+      "ACE FMS"
+    ],
+    "contactName": "Alyson Cross",
+    "email": "alysoncross@mac.com",
+    "phone": "(925)-743-2900",
+    "website": "www.questcamps.com",
+    "locations": [
+      {
+        "label": "Alamo, CA",
+        "address": "Alamo, CA",
+        "city": "Alamo",
+        "lat": 37.8551351,
+        "lng": -122.0066891
+      },
+      {
+        "label": "Oakland",
+        "address": "Oakland, CA",
+        "city": "Oakland",
+        "lat": 37.8044557,
+        "lng": -122.271356
+      }
+    ],
+    "id": "quest-therapeutic-camps-inc-bay-area"
+  },
+  {
+    "name": "Rockin' Jump - Concord",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Open play"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Rockin' Jump Trampoline Park",
+    "email": "orders@rollerdigital.com",
+    "phone": "(925)-332-0285",
+    "website": "rockinjump.com",
+    "locations": [
+      {
+        "label": "Concord, CA",
+        "address": "1631 Challenge Dr, Concord, CA 94520",
+        "city": "Concord",
+        "lat": 37.9648187,
+        "lng": -122.0513991
+      }
+    ],
+    "id": "rockin-jump-concord"
+  },
+  {
+    "name": "San Anselmo Recreation Department",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "San Anselmo Parks & Rec",
+    "email": "recreation@townofsananselmo.org",
+    "phone": "(415)-258-4640",
+    "website": "www.townofsananselmo.org",
+    "locations": [
+      {
+        "label": "San Anselmo, CA",
+        "address": "San Anselmo, CA",
+        "city": "San Anselmo",
+        "lat": 37.9744323,
+        "lng": -122.561503
+      }
+    ],
+    "id": "san-anselmo-recreation-department"
+  },
+  {
+    "name": "San Francisco Rec & Park",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Art",
+      "Sports",
+      "Dance",
+      "Swim",
+      "Yoga",
+      "Woodworking",
+      "Clay",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "SF Parks & Recreation",
+    "email": "sfreconline@sfgov.org",
+    "website": "sanfranciscoparksalliance.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "San Francisco, CA",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      }
+    ],
+    "id": "san-francisco-rec-park"
+  },
+  {
+    "name": "San Francisco Zoo Summer Camps",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Alysia Caryl",
+    "email": "zoocamp@sfzoo.org",
+    "phone": "(415)-213-8148",
+    "website": "sfzoo.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "Sloat Blvd &, Upper Great Hwy, San Francisco, CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      }
+    ],
+    "id": "san-francisco-zoo-summer-camps"
+  },
+  {
+    "name": "Sensational Kidz Pediatric Occupational Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Early intervention"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "ACE FMS"
+    ],
+    "contactName": "Kimberly Papageorge",
+    "email": "kimberly@senkidzot.com",
+    "phone": "(703)-801-5672",
+    "website": "www.senkidzot.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "3100 Noriega St, San Francisco, CA 94122",
+        "city": "San Francisco",
+        "lat": 37.7534983,
+        "lng": -122.4970543
+      }
+    ],
+    "id": "sensational-kidz-pediatric-occupational-therapy"
+  },
+  {
+    "name": "Sensational Kidz Speech Therapy, Inc.",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Speech",
+      "Feeding",
+      "AAC",
+      "Early intervention"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "contactName": "Didem McCollum",
+    "email": "dmccollum@senkidz.com",
+    "phone": "(415)-729-5157",
+    "website": "www.senkidzsf.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "3100 Noriega St, San Francisco, CA 94122",
+        "city": "San Francisco",
+        "lat": 37.7534983,
+        "lng": -122.4970543
+      }
+    ],
+    "id": "sensational-kidz-speech-therapy-inc"
+  },
+  {
+    "name": "Sequoia Village School House",
+    "categories": [
+      "Social Recreation",
+      "Socialization training",
+      "Education"
+    ],
+    "subcategories": [
+      "Camp",
+      "Playgroup",
+      "Preschool",
+      "K-2"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Sara Oletti",
+    "email": "soletti@svschoolhouse.com",
+    "phone": "(415)-463-5472",
+    "website": "svschoolhouse.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "1438 38th Ave San Francisco, Ca 94122",
+        "city": "San Francisco",
+        "lat": 37.7600595,
+        "lng": -122.4970707
+      }
+    ],
+    "id": "sequoia-village-school-house"
+  },
+  {
+    "name": "SF Speech Therapy",
+    "categories": [
+      "Therapy"
+    ],
+    "subcategories": [
+      "Speech",
+      "Feeding",
+      "AAC",
+      "Early intervention"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "contactName": "Teresa Newmark",
+    "email": "info@sfspeechtherapy.com",
+    "phone": "(628) 303-8618",
+    "website": "https://www.sfspeechtherapy.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "661 Chenery Street San Francisco, CA 94131",
+        "city": "San Francisco",
+        "lat": 37.7344275,
+        "lng": -122.4331494
+      }
+    ],
+    "id": "sf-speech-therapy"
+  },
+  {
+    "name": "SFUSD - Sutro Elementary",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Afterschool"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Annie Lee",
+    "email": "leea11@sfusd.edu",
+    "phone": "(415)-750-8524",
+    "website": "https://www.sfusd.edu/school/sutro-elementary-school",
+    "locations": [
+      {
+        "label": "Sutro Elementary",
+        "address": "235 12th Ave, San Francisco, CA 94118",
+        "city": "San Francisco",
+        "lat": 37.783603,
+        "lng": -122.4714668
+      }
+    ],
+    "id": "sfusd-sutro-elementary"
+  },
+  {
+    "name": "SFUSD - Tule Elk Park Early Education School",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Afterschool"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Amanda Rice",
+    "email": "ricea1@sfusd.edu",
+    "phone": "(415)-749-3551",
+    "website": "sfusd.edu",
+    "locations": [
+      {
+        "label": "Tule Elk Park Early Education School",
+        "address": "2110 Greenwich St, San Francisco, CA 94123",
+        "city": "San Francisco",
+        "lat": 37.7992057,
+        "lng": -122.4345302
+      }
+    ],
+    "id": "sfusd-tule-elk-park-early-education-school"
+  },
+  {
+    "name": "Skilled Therapy & Play Services",
+    "categories": [
+      "Therapy",
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Occupational",
+      "Speech",
+      "Group",
+      "Feeding",
+      "Behavior",
+      "AAC",
+      "Social skills group"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Erin DeNola",
+    "email": "edenola@skilledtherapyplay.com",
+    "phone": "650) 200-6154",
+    "website": "www.skilledtherapyplay.com",
+    "locations": [
+      {
+        "label": "San Carlos, CA",
+        "address": "300 El Camino Real, San Carlos, CA 94070",
+        "city": "San Carlos",
+        "lat": 37.493479,
+        "lng": -122.2438462
+      },
+      {
+        "label": "San Mateo, CA",
+        "address": "151 W 20th Avenue, San Mateo, CA 94403",
+        "city": "San Mateo",
+        "lat": 37.547667,
+        "lng": -122.311969
+      }
+    ],
+    "id": "skilled-therapy-play-services"
+  },
+  {
+    "name": "Social Thinking Center - Stevens Creek",
+    "categories": [
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Social skills group"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "May Chen",
+    "email": "mchen@socialthinkingsc.com",
+    "phone": "(408)-244-2005",
+    "website": "socialthinkingsanjose.com",
+    "locations": [
+      {
+        "label": "San Jose, CA",
+        "address": "3550 Stevens Creek Blvd STE 200, San Jose, CA 95117",
+        "city": "San Jose",
+        "lat": 37.3227927,
+        "lng": -121.961606
+      }
+    ],
+    "id": "social-thinking-center-stevens-creek"
+  },
+  {
+    "name": "Spirited Play Labs",
+    "categories": [
+      "Social Recreation",
+      "Socialization training"
+    ],
+    "subcategories": [
+      "Open play",
+      "DIR Floortime"
+    ],
+    "fundingAccepted": [
+      "GGRC",
+      "SARC",
+      "RCEB",
+      "NBRC",
+      "ACE FMS"
+    ],
+    "contactName": "Mikaela De Los Santos",
+    "email": "mikaela@spiritedplaylabs.com",
+    "phone": "(510)-645-1064",
+    "website": "spiritedplaylabs.com",
+    "locations": [
+      {
+        "label": "San Ramon, CA",
+        "address": "2220 Camino Ramon - San Ramon, CA 94583",
+        "city": "San Ramon",
+        "lat": 37.7763541,
+        "lng": -121.9676323
+      },
+      {
+        "label": "Berkeley, CA",
+        "address": "2930 Shattuck Ave #206, Berkeley, CA 94705",
+        "city": "Berkeley",
+        "lat": 37.8559622,
+        "lng": -122.2669756
+      },
+      {
+        "label": "Belmont, CA",
+        "address": "1300 5th Ave, Belmont, CA 94002",
+        "city": "Belmont",
+        "lat": 37.5174518,
+        "lng": -122.2743356
+      }
+    ],
+    "id": "spirited-play-labs"
+  },
+  {
+    "name": "STEMful",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Open play",
+      "STEM"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Kim Nguyen-Ehrenreich",
+    "email": "info@stemful-sf.com",
+    "phone": "(415)-660-5975",
+    "website": "sf-stemful.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "30 29th St. San Francisco, CA 94110",
+        "city": "San Francisco",
+        "lat": 37.7440875,
+        "lng": -122.4215069
+      }
+    ],
+    "id": "stemful"
+  },
+  {
+    "name": "Steve & Kate's Camp",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Anthony Lombard",
+    "email": "valleyvillage@steveandkate.com",
+    "phone": "(323)-244-2556",
+    "website": "steveandkate.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "San Francisco, CA",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      },
+      {
+        "label": "Emeryville, CA",
+        "address": "Emeryville, CA",
+        "city": "Emeryville",
+        "lat": 37.8314089,
+        "lng": -122.2865266
+      },
+      {
+        "label": "Fremont, CA",
+        "address": "Fremont, CA",
+        "city": "Fremont",
+        "lat": 37.5482697,
+        "lng": -121.988571
+      },
+      {
+        "label": "Pleasanton, CA",
+        "address": "Pleasanton, CA",
+        "city": "Pleasanton",
+        "lat": 37.6624312,
+        "lng": -121.8746789
+      },
+      {
+        "label": "Walnut Creek, CA",
+        "address": "Walnut Creek, CA",
+        "city": "Walnut Creek",
+        "lat": 37.9020731,
+        "lng": -122.0618702
+      },
+      {
+        "label": "Corte Madera, CA",
+        "address": "Corte Madera, CA",
+        "city": "Corte Madera",
+        "lat": 37.9254806,
+        "lng": -122.527475
+      },
+      {
+        "label": "Santa Rosa, CA",
+        "address": "Santa Rosa, CA",
+        "city": "Santa Rosa",
+        "lat": 38.4404925,
+        "lng": -122.7141049
+      },
+      {
+        "label": "Belmont, CA",
+        "address": "Belmont, CA",
+        "city": "Belmont",
+        "lat": 37.5164926,
+        "lng": -122.2941914
+      },
+      {
+        "label": "Palo Alto, CA",
+        "address": "Palo Alto, CA",
+        "city": "Palo Alto",
+        "lat": 37.4443293,
+        "lng": -122.1598465
+      },
+      {
+        "label": "San Mateo, CA",
+        "address": "San Mateo, CA",
+        "city": "San Mateo",
+        "lat": 37.496904,
+        "lng": -122.3330573
+      },
+      {
+        "label": "Cupertino, CA",
+        "address": "Cupertino, CA",
+        "city": "Cupertino",
+        "lat": 37.3228934,
+        "lng": -122.0322895
+      },
+      {
+        "label": "San Jose, CA",
+        "address": "San Jose, CA",
+        "city": "San Jose",
+        "lat": 37.3361663,
+        "lng": -121.890591
+      }
+    ],
+    "id": "steve-kate-s-camp"
+  },
+  {
+    "name": "Sunpoint Home, LLC",
+    "categories": [
+      "Residential Facility"
+    ],
+    "subcategories": [],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "email": "hello@sunpointhome.com",
+    "phone": "650-245-8850",
+    "locations": [
+      {
+        "label": "San Mateo, CA",
+        "address": "617 Rand St., San Mateo, CA, 94401",
+        "city": "San Mateo",
+        "lat": 37.5719575,
+        "lng": -122.3078282
+      }
+    ],
+    "id": "sunpoint-home-llc"
+  },
+  {
+    "name": "The Bridge School",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Extensive needs"
+    ],
+    "fundingAccepted": [
+      "GGRC"
+    ],
+    "phone": "(650) 696-7295",
+    "website": "https://www.bridgeschool.org/bridge-to-life/",
+    "locations": [
+      {
+        "label": "Hillsborough, CA",
+        "address": "545 Eucalyptus Avenue Hillsborough, CA 94010-6404",
+        "city": "Hillsborough",
+        "lat": 37.568812,
+        "lng": -122.3612784
+      }
+    ],
+    "id": "the-bridge-school"
+  },
+  {
+    "name": "The Helix School",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Elementary",
+      "Middle",
+      "High School",
+      "Transition",
+      "Adult"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Stu Fisher",
+    "email": "anthony@thehelixschool.org",
+    "phone": "(415)-569-5064",
+    "website": "thehelixschool.org",
+    "locations": [
+      {
+        "label": "San Rafael, CA",
+        "address": "161 Mitchell Blvd, San Rafael, CA 94903",
+        "city": "San Rafael",
+        "lat": 38.015664,
+        "lng": -122.534383
+      }
+    ],
+    "id": "the-helix-school"
+  },
+  {
+    "name": "The Music Room of San Francisco",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Music"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Jessica Meyers",
+    "email": "jessica@musicroomsf.com",
+    "phone": "(415)-944-7666",
+    "website": "www.musicroomsf.com",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "3801 Balboa St. San Francisco, CA 94121",
+        "city": "San Francisco",
+        "lat": 37.7753357,
+        "lng": -122.4996736
+      }
+    ],
+    "id": "the-music-room-of-san-francisco"
+  },
+  {
+    "name": "The Riekes Center",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Art",
+      "Fitness",
+      "Yoga"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Riekes Center Accounting Dept.",
+    "email": "administration@riekes.org",
+    "phone": "(650)-364-2509",
+    "website": "riekes.org",
+    "locations": [
+      {
+        "label": "Menlo Park, CA",
+        "address": "3455 Edison Way, Menlo Park, CA 94025",
+        "city": "Menlo Park",
+        "lat": 37.4519671,
+        "lng": -122.177992
+      }
+    ],
+    "id": "the-riekes-center"
+  },
+  {
+    "name": "The Walt Disney Family Museum",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Art"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Walt Disney Family Museum",
+    "email": "membership@wdfmuseum.org",
+    "phone": "(415)-345-6800",
+    "website": "wdfmuseum.org",
+    "locations": [
+      {
+        "label": "San Francisco, CA",
+        "address": "104 Montgomery St, San Francisco, CA 94129",
+        "city": "San Francisco",
+        "lat": 37.8013627,
+        "lng": -122.4587206
+      }
+    ],
+    "id": "the-walt-disney-family-museum"
+  },
+  {
+    "name": "Touchstone Climbing, Inc",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Climbing"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Mark Melvin",
+    "email": "ci_staff@touchstoneclimbing.com",
+    "phone": "(424)-543-3820",
+    "website": "touchstoneclimbing.com",
+    "locations": [
+      {
+        "label": "Berkeley Ironworks",
+        "address": "800 Potter St, Berkeley, CA 94710",
+        "city": "Berkeley",
+        "lat": 37.8507748,
+        "lng": -122.2924988
+      },
+      {
+        "label": "Diablo Rock Gym",
+        "address": "1220 Diamond Way # 140, Concord, CA 94520",
+        "city": "Concord",
+        "lat": 37.9649036,
+        "lng": -122.0532666
+      },
+      {
+        "label": "Dogpatch Boulders",
+        "address": "2573 3rd St, San Francisco, CA 94107",
+        "city": "San Francisco",
+        "lat": 37.7566416,
+        "lng": -122.3879743
+      },
+      {
+        "label": "Great Western Power Company",
+        "address": "520 20th St, Oakland, CA 94612",
+        "city": "Oakland",
+        "lat": 37.8099168,
+        "lng": -122.270132
+      },
+      {
+        "label": "Hyperion Climbing",
+        "address": "801 Willow St, Redwood City, CA 94063",
+        "city": "Redwood City",
+        "lat": 37.483815,
+        "lng": -122.214506
+      },
+      {
+        "label": "Mission Cliffs",
+        "address": "2295 Harrison St, San Francisco, CA 94110",
+        "city": "San Francisco",
+        "lat": 37.7606654,
+        "lng": -122.4124129
+      },
+      {
+        "label": "Pacific Pipe",
+        "address": "2140 Mandela Pkwy, Oakland, CA 94607",
+        "city": "Oakland",
+        "lat": 37.8151957,
+        "lng": -122.2890408
+      },
+      {
+        "label": "Team Touchstone Training Center",
+        "address": "795 Potter St, Berkeley, CA 94710",
+        "city": "Berkeley",
+        "lat": 37.8515721,
+        "lng": -122.292605
+      },
+      {
+        "label": "The Oaks Climbing",
+        "address": "1875 Solano Ave, Berkeley, CA 94707",
+        "city": "Berkeley",
+        "lat": 37.891749,
+        "lng": -122.2781475
+      },
+      {
+        "label": "The Studio Climbing",
+        "address": "396 S 1st St, San Jose, CA 95113",
+        "city": "San Jose",
+        "lat": 37.3303226,
+        "lng": -121.8857887
+      }
+    ],
+    "id": "touchstone-climbing-inc"
+  },
+  {
+    "name": "Tree Frog Treks LLC",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Emma Weir",
+    "email": "Info@treefrogtreks.com",
+    "phone": "(415) 876-3764",
+    "website": "treefrogtreks.com",
+    "locations": [
+      {
+        "label": "Golden Gate Park",
+        "address": "425 John F Kennedy Dr, San Francisco CA",
+        "city": "San Francisco",
+        "lat": 37.772502,
+        "lng": -122.466397
+      },
+      {
+        "label": "McLaren Park",
+        "address": "1700 Bacon St, San Francisco, CA",
+        "city": "San Francisco",
+        "lat": 37.725525,
+        "lng": -122.4120209
+      },
+      {
+        "label": "Christopher Playground",
+        "address": "5210 Diamond Heights Blvd, San Francisco, CA 94131",
+        "city": "San Francisco",
+        "lat": 37.7439969,
+        "lng": -122.4402468
+      },
+      {
+        "label": "Holly Park",
+        "address": "266-352 Holly Park Cir, San Francisco, CA 94110",
+        "city": "San Francisco",
+        "lat": 37.73706,
+        "lng": -122.418951
+      },
+      {
+        "label": "Francisco Park",
+        "address": "Russian Hill Park, Bay St &, Larkin St, San Francisco, CA 94109",
+        "city": "San Francisco",
+        "lat": 37.7879363,
+        "lng": -122.4075201
+      }
+    ],
+    "id": "tree-frog-treks-llc"
+  },
+  {
+    "name": "Tutor Me Education",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Tutoring"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Elliot Farahnik",
+    "email": "Elliot@tutormeeducation.com",
+    "phone": "(818) 308-1297",
+    "website": "tutormeeducation.com",
+    "locations": [
+      {
+        "label": "San Francisco Bay Area",
+        "address": "",
+        "city": "San Francisco Bay Area",
+        "regionWide": true
+      },
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      }
+    ],
+    "id": "tutor-me-education"
+  },
+  {
+    "name": "Vision Parkour",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Parkour"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Jon Switkes",
+    "email": "info@visionparkour.com",
+    "phone": "(650)-394-7338",
+    "website": "visionparkour.com",
+    "locations": [
+      {
+        "label": "San Carlos, CA",
+        "address": "1067 E San Carlos Ave, San Carlos, CA 94070",
+        "city": "San Carlos",
+        "lat": 37.5080834,
+        "lng": -122.2590485
+      }
+    ],
+    "id": "vision-parkour"
+  },
+  {
+    "name": "Waterworks Aquatics",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Keith Domines",
+    "email": "charterschool@waterworksswim.com",
+    "phone": "(949)-450-0777",
+    "website": "waterworksswim.com",
+    "locations": [
+      {
+        "label": "San Francisco/20th Ave @ City Sports Club",
+        "address": "3201 20th Ave San Francisco CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7297857,
+        "lng": -122.4764171
+      },
+      {
+        "label": "Hayward-Whipple @ City Sports Club",
+        "address": "2401 Whipple Road Hayward CA, 94544",
+        "city": "Hayward",
+        "lat": 37.606713,
+        "lng": -122.061626
+      },
+      {
+        "label": "Concord @ City Sports Club",
+        "address": "2075 Diamond Blvd - 170 Concord CA, 94520",
+        "city": "Concord",
+        "lat": 37.9712122,
+        "lng": -122.0556969
+      },
+      {
+        "label": "Hayward-Hesperian @ City Sports Club",
+        "address": "24500 Hesperian Blvd. Hayward CA, 94545",
+        "city": "Hayward",
+        "lat": 37.6492031,
+        "lng": -122.1081408
+      },
+      {
+        "label": "Hayward-Foothill @ City Sports Club",
+        "address": "22327 Foothill Blvd. Hayward CA, 94541",
+        "city": "Hayward",
+        "lat": 37.6784271,
+        "lng": -122.08416
+      },
+      {
+        "label": "Sunnyvale @ City Sports Club",
+        "address": "1165 E. Arques Ave. Sunnyvale CA, 94085",
+        "city": "Sunnyvale",
+        "lat": 37.3803601,
+        "lng": -122.0023762
+      },
+      {
+        "label": "North San Jose @ City Sports Club",
+        "address": "1045 E. Brokaw Rd. San Jose CA, 95131",
+        "city": "San Jose",
+        "lat": 37.384192,
+        "lng": -121.8981669
+      },
+      {
+        "label": "Antioch @ City Sports Club",
+        "address": "5001 Lone Tree Way Antioch CA, 94531",
+        "city": "Antioch",
+        "lat": 37.9630225,
+        "lng": -121.7580332
+      },
+      {
+        "label": "San Jose-Bascom",
+        "address": "1120 S. Bascom Ave. San Jose CA, 95128",
+        "city": "San Jose",
+        "lat": 37.3055934,
+        "lng": -121.9312334
+      },
+      {
+        "label": "San Jose/Almaden @ City Sports Club",
+        "address": "5155 Cherry Ave. San Jose CA, 95118",
+        "city": "San Jose",
+        "lat": 37.2598684,
+        "lng": -121.8728323
+      },
+      {
+        "label": "San Jose / Blossom Hill @ City Sports Club",
+        "address": "5502 Monterey Road #10 San Jose CA, 95138",
+        "city": "San Jose",
+        "lat": 37.2413138,
+        "lng": -121.7783599
+      }
+    ],
+    "id": "waterworks-aquatics"
+  },
+  {
+    "name": "Wushu Central Martial Arts Academy",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Martial arts"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "David Chang",
+    "email": "sifu@kungfu.kids",
+    "phone": "(408)-314-5011",
+    "website": "kungfu.kids/san-jose",
+    "locations": [
+      {
+        "label": "San Jose",
+        "address": "879 Coleman Ave. Suite 40, San Jose, CA 95110",
+        "city": "San Jose",
+        "lat": 37.3457711,
+        "lng": -121.9147919
+      },
+      {
+        "label": "Palo Alto",
+        "address": "2741 Middlefield Rd. Suite 101, Palo Alto, CA 94306",
+        "city": "Palo Alto",
+        "lat": 37.4334812,
+        "lng": -122.12873
+      },
+      {
+        "label": "Pleasanton",
+        "address": "4811 Hopyard Rd. Suite G7, Pleasanton, CA 94588",
+        "city": "Pleasanton",
+        "lat": 37.6918176,
+        "lng": -121.9034416
+      },
+      {
+        "label": "Capitol Expressway",
+        "address": "1045 E Capitol Expressway, San Jose, CA 95121",
+        "city": "San Jose",
+        "lat": 37.3011435,
+        "lng": -121.822995
+      },
+      {
+        "label": "Mountain View",
+        "address": "1350 Grant Rd. Suite 2, Mountain View, CA 94040",
+        "city": "Mountain View",
+        "lat": 37.3767247,
+        "lng": -122.0765734
+      }
+    ],
+    "id": "wushu-central-martial-arts-academy"
+  },
+  {
+    "name": "YMCA of Greater San Francisco",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Camp",
+      "Afterschool",
+      "Gym",
+      "Group fitness",
+      "Sports",
+      "Swim",
+      "Youth sports",
+      "Art"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Jennifer Trombley",
+    "email": "jtrombley@ymcasf.org",
+    "phone": "(415)-281-6722",
+    "website": "ymcasf.org",
+    "locations": [
+      {
+        "label": "Bayview Hunters Point YMCA",
+        "address": "1601 Lane Street, San Francisco CA 94124",
+        "city": "San Francisco",
+        "lat": 37.731874,
+        "lng": -122.389734
+      },
+      {
+        "label": "Buchanan YMCA",
+        "address": "1530 Buchanan Street, San Francisco CA 94115",
+        "city": "San Francisco",
+        "lat": 37.7842386,
+        "lng": -122.4291749
+      },
+      {
+        "label": "Chinatown YMCA",
+        "address": "855 Sacramento St, San Francisco CA 94108",
+        "city": "San Francisco",
+        "lat": 37.7932009,
+        "lng": -122.4068842
+      },
+      {
+        "label": "Dogpatch YMCA at Crane Cove",
+        "address": "701 Illinois St, San Francisco CA 94107",
+        "city": "San Francisco",
+        "lat": 37.7635539,
+        "lng": -122.3877337
+      },
+      {
+        "label": "Embarcadero YMCA",
+        "address": "169 Steuart Street, San Francisco CA 94105",
+        "city": "San Francisco",
+        "lat": 37.7925423,
+        "lng": -122.39199
+      },
+      {
+        "label": "Marin YMCA",
+        "address": "1500 Los Gamos Drive, San Rafael CA 94903",
+        "city": "San Rafael",
+        "lat": 38.0173909,
+        "lng": -122.5420642
+      },
+      {
+        "label": "Mission YMCA",
+        "address": "4080 Mission Street, San Francisco CA 94112",
+        "city": "San Francisco",
+        "lat": 37.7322268,
+        "lng": -122.428003
+      },
+      {
+        "label": "Peninsula Family YMCA",
+        "address": "1877 South Grant Street, San Mateo CA 94402",
+        "city": "San Mateo",
+        "lat": 37.5531015,
+        "lng": -122.301457
+      },
+      {
+        "label": "Presidio Community YMCA",
+        "address": "63 Funston Avenue, San Francisco CA 94129",
+        "city": "San Francisco",
+        "lat": 37.7997091,
+        "lng": -122.4547549
+      },
+      {
+        "label": "Richmond District YMCA",
+        "address": "360 18th Avenue, San Francisco CA 94121",
+        "city": "San Francisco",
+        "lat": 37.7812657,
+        "lng": -122.477027
+      },
+      {
+        "label": "Shih Yu-Lang Central YMCA",
+        "address": "246 Eddy Street, San Francisco CA 94102",
+        "city": "San Francisco",
+        "lat": 37.7841126,
+        "lng": -122.4118366
+      },
+      {
+        "label": "Stonestown Family YMCA",
+        "address": "333 Eucalyptus Drive, San Francisco CA 94132",
+        "city": "San Francisco",
+        "lat": 37.7307751,
+        "lng": -122.4764501
+      },
+      {
+        "label": "Urban Services YMCA",
+        "address": "1530 Buchanan Street, San Francisco CA 94115",
+        "city": "San Francisco",
+        "lat": 37.7842386,
+        "lng": -122.4291749
+      }
+    ],
+    "id": "ymca-of-greater-san-francisco"
+  }
+]

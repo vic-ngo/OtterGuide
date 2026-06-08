@@ -1,0 +1,990 @@
+{
+  "3201 20th Ave San Francisco CA 94132": {
+    "lat": 37.7297857,
+    "lng": -122.4764171
+  },
+  "2401 Whipple Road Hayward CA, 94544": {
+    "lat": 37.606713,
+    "lng": -122.061626
+  },
+  "24500 Hesperian Blvd. Hayward CA, 94545": {
+    "lat": 37.6492031,
+    "lng": -122.1081408
+  },
+  "22327 Foothill Blvd. Hayward CA, 94541": {
+    "lat": 37.6784271,
+    "lng": -122.08416
+  },
+  "1165 E. Arques Ave. Sunnyvale CA, 94085": {
+    "lat": 37.3803601,
+    "lng": -122.0023762
+  },
+  "1045 E. Brokaw Rd. San Jose CA, 95131": {
+    "lat": 37.384192,
+    "lng": -121.8981669
+  },
+  "5001 Lone Tree Way Antioch CA, 94531": {
+    "lat": 37.9630225,
+    "lng": -121.7580332
+  },
+  "1120 S. Bascom Ave. San Jose CA, 95128": {
+    "lat": 37.3055934,
+    "lng": -121.9312334
+  },
+  "5155 Cherry Ave. San Jose CA, 95118": {
+    "lat": 37.2598684,
+    "lng": -121.8728323
+  },
+  "1850 Ocean Ave San Francisco, CA 94112": {
+    "lat": 37.7253132,
+    "lng": -122.461745
+  },
+  "1645 Bryant Street San Francisco, CA 94103": {
+    "lat": 37.7663141,
+    "lng": -122.4104501
+  },
+  "250 Gateway Boulevard South San Francisco, CA 94080": {
+    "lat": 37.651085,
+    "lng": -122.4037022
+  },
+  "1225 Helen Dr, Millbrae, CA 94030": {
+    "lat": 37.6043949,
+    "lng": -122.4219779
+  },
+  "401 E Millbrae Ave Millbrae, CA 94030": {
+    "lat": 37.6028159,
+    "lng": -122.3779684
+  },
+  "150 Anza Blvd Burlingame CA, 94010": {
+    "lat": 37.5916076,
+    "lng": -122.347999
+  },
+  "10636 San Pablo Ave El Cerrito, CA 94530": {
+    "lat": 37.91234,
+    "lng": -122.3076318
+  },
+  "93 Bovet Road San Mateo, CA 94402": {
+    "lat": 37.549911,
+    "lng": -122.314806
+  },
+  "4100 Klose Way Richmond, CA 94806": {
+    "lat": 37.9828438,
+    "lng": -122.3193123
+  },
+  "567 Floresta Blvd San Leandro, CA 94578": {
+    "lat": 37.7017598,
+    "lng": -122.141506
+  },
+  "24727 Amador St Hayward, CA 94544": {
+    "lat": 37.6536176,
+    "lng": -122.0917301
+  },
+  "1050 Broadway Redwood City, CA 94063": {
+    "lat": 37.4871975,
+    "lng": -122.2120044
+  },
+  "933 Mason St, San Francisco, CA 94129": {
+    "lat": 37.8054101,
+    "lng": -122.4691397
+  },
+  "775 Main St, Half Moon Bay, CA 94019": {
+    "lat": 37.4594317,
+    "lng": -122.4297623
+  },
+  "434 San Mateo Ave, San Bruno, CA 94066": {
+    "lat": 37.6223601,
+    "lng": -122.4111374
+  },
+  "440 Smith Ranch Road San Rafael, CA 94903": {
+    "lat": 38.0179004,
+    "lng": -122.5216061
+  },
+  "800 Potter St, Berkeley, CA 94710": {
+    "lat": 37.8507748,
+    "lng": -122.2924988
+  },
+  "2573 3rd St, San Francisco, CA 94107": {
+    "lat": 37.7566416,
+    "lng": -122.3879743
+  },
+  "520 20th St, Oakland, CA 94612": {
+    "lat": 37.8099168,
+    "lng": -122.270132
+  },
+  "801 Willow St, Redwood City, CA 94063": {
+    "lat": 37.483815,
+    "lng": -122.214506
+  },
+  "2295 Harrison St, San Francisco, CA 94110": {
+    "lat": 37.7606654,
+    "lng": -122.4124129
+  },
+  "2140 Mandela Pkwy, Oakland, CA 94607": {
+    "lat": 37.8151957,
+    "lng": -122.2890408
+  },
+  "795 Potter St, Berkeley, CA 94710": {
+    "lat": 37.8515721,
+    "lng": -122.292605
+  },
+  "1875 Solano Ave, Berkeley, CA 94707": {
+    "lat": 37.891749,
+    "lng": -122.2781475
+  },
+  "396 S 1st St, San Jose, CA 95113": {
+    "lat": 37.3303226,
+    "lng": -121.8857887
+  },
+  "630 San Antonio Rd, Mountain View, CA 94040": {
+    "lat": 37.4020547,
+    "lng": -122.1128012
+  },
+  "100 El Camino Real, Belmont, CA 94002": {
+    "lat": 37.5289282,
+    "lng": -122.2875963
+  },
+  "924 Mason St, San Francisco, CA 94129": {
+    "lat": 37.8043769,
+    "lng": -122.4684092
+  },
+  "801 Martin Ave, Santa Clara, CA 95050": {
+    "lat": 37.3662248,
+    "lng": -121.9500002
+  },
+  "815 Stewart Dr, Sunnyvale, CA 94085": {
+    "lat": 37.384415,
+    "lng": -122.0105543
+  },
+  "1675 Owens St, San Francisco, CA 94158": {
+    "lat": 37.7679911,
+    "lng": -122.392759
+  },
+  "1601 Lane Street, San Francisco CA 94124": {
+    "lat": 37.731874,
+    "lng": -122.389734
+  },
+  "1530 Buchanan Street, San Francisco CA 94115": {
+    "lat": 37.7842386,
+    "lng": -122.4291749
+  },
+  "855 Sacramento St, San Francisco CA 94108": {
+    "lat": 37.7932009,
+    "lng": -122.4068842
+  },
+  "701 Illinois St, San Francisco CA 94107": {
+    "lat": 37.7635539,
+    "lng": -122.3877337
+  },
+  "169 Steuart Street, San Francisco CA 94105": {
+    "lat": 37.7925423,
+    "lng": -122.39199
+  },
+  "1500 Los Gamos Drive, San Rafael CA 94903": {
+    "lat": 38.0173909,
+    "lng": -122.5420642
+  },
+  "4080 Mission Street, San Francisco CA 94112": {
+    "lat": 37.7322268,
+    "lng": -122.428003
+  },
+  "1877 South Grant Street, San Mateo CA 94402": {
+    "lat": 37.5531015,
+    "lng": -122.301457
+  },
+  "63 Funston Avenue, San Francisco CA 94129": {
+    "lat": 37.7997091,
+    "lng": -122.4547549
+  },
+  "360 18th Avenue, San Francisco CA 94121": {
+    "lat": 37.7812657,
+    "lng": -122.477027
+  },
+  "246 Eddy Street, San Francisco CA 94102": {
+    "lat": 37.7841126,
+    "lng": -122.4118366
+  },
+  "333 Eucalyptus Drive, San Francisco CA 94132": {
+    "lat": 37.7307751,
+    "lng": -122.4764501
+  },
+  "1560 Mission St, San Francisco, CA 94103": {
+    "lat": 37.7739233,
+    "lng": -122.4177782
+  },
+  "747 Market St, San Francisco, CA 94103": {
+    "lat": 37.7865523,
+    "lng": -122.404501
+  },
+  "2055 Union St, San Francisco, CA 94123": {
+    "lat": 37.7971054,
+    "lng": -122.4330789
+  },
+  "301 Pine St, San Francisco, CA 94104": {
+    "lat": 37.7918287,
+    "lng": -122.4013004
+  },
+  "320 Mission St, San Francisco, CA 94105": {
+    "lat": 37.7910183,
+    "lng": -122.3961309
+  },
+  "2600 Shattuck Ave., Berkeley, CA 94704": {
+    "lat": 37.8614763,
+    "lng": -122.2674056
+  },
+  "4 E 4th Ave, San Mateo, CA 94401": {
+    "lat": 37.562256,
+    "lng": -122.32482
+  },
+  "6000 Bollinger Canyon Rd, San Ramon, CA 94583": {
+    "lat": 37.7629355,
+    "lng": -121.959808
+  },
+  "440 Portage Ave, Palo Alto, CA 94306": {
+    "lat": 37.422011,
+    "lng": -122.138136
+  },
+  "3201 20th Ave San Francisco, CA 94132": {
+    "lat": 37.7297857,
+    "lng": -122.4764171
+  },
+  "24500 Hesperian Blvd Hayward, CA 94545": {
+    "lat": 37.6492031,
+    "lng": -122.1081408
+  },
+  "22327 Foothill Blvd Hayward, CA 94541": {
+    "lat": 37.6784271,
+    "lng": -122.08416
+  },
+  "1045 E Brokaw Rd San Jose, CA 95131": {
+    "lat": 37.384192,
+    "lng": -121.8981669
+  },
+  "610 Newhall Drive San Jose, CA 95110": {
+    "lat": 37.3492778,
+    "lng": -121.9210589
+  },
+  "1165 E Arques Ave Sunnyvale, CA 94085": {
+    "lat": 37.3803601,
+    "lng": -122.0023762
+  },
+  "39153 Farwell Drive Fremont, CA 94538": {
+    "lat": 37.5317554,
+    "lng": -121.9978761
+  },
+  "5155 Cherry Ave San Jose, CA 95118": {
+    "lat": 37.2598684,
+    "lng": -121.8728323
+  },
+  "1533 Sloat Blvd, San Francisco, CA 94132-1222": {
+    "lat": 37.7342769,
+    "lng": -122.4893543
+  },
+  "2945 Junipero Serra Blvd, Daly City, CA 94014-2549": {
+    "lat": 37.6875841,
+    "lng": -122.4699827
+  },
+  "417 Montgomery St, San Francisco, CA 94104": {
+    "lat": 37.7933839,
+    "lng": -122.4032165
+  },
+  "4349 San Pablo Ave, Emeryville, CA 94608": {
+    "lat": 37.8339415,
+    "lng": -122.2812482
+  },
+  "610 Hegenberger Rd, Oakland, CA 94621": {
+    "lat": 37.7504464,
+    "lng": -122.1962034
+  },
+  "4055 Macarthur Blvd, Oakland, CA 94619-1903": {
+    "lat": 37.7899907,
+    "lng": -122.1974113
+  },
+  "4925 Macdonald Ave, Richmond, CA 94805": {
+    "lat": 37.9331076,
+    "lng": -122.3230559
+  },
+  "1850 S Norfolk St, San Mateo, CA 94403-1102": {
+    "lat": 37.5553151,
+    "lng": -122.2930678
+  },
+  "13222 San Pablo Ave, San Pablo, CA 94806": {
+    "lat": 37.9534692,
+    "lng": -122.3336042
+  },
+  "10715 Macarthur Blvd, Oakland, CA 94605-5257": {
+    "lat": 37.7417853,
+    "lng": -122.1503168
+  },
+  "1570 Fitzgerald Dr, Pinole, CA 94564": {
+    "lat": 37.9915859,
+    "lng": -122.3028506
+  },
+  "242 Walnut St, Redwood City, CA 94063-1717": {
+    "lat": 37.4927883,
+    "lng": -122.224922
+  },
+  "1697 Mt Diablo Blvd, Walnut Creek, CA 94596-4517": {
+    "lat": 37.8972697,
+    "lng": -122.0630217
+  },
+  "35630 Fremont Blvd, Fremont, CA 94536": {
+    "lat": 37.5672289,
+    "lng": -122.0246193
+  },
+  "42 Springstowne Ctr, Vallejo, CA 94591-5566": {
+    "lat": 38.1045008,
+    "lng": -122.2158952
+  },
+  "1850 Ocean Avenue San Francisco, CA 94112": {
+    "lat": 37.7253132,
+    "lng": -122.461745
+  },
+  "2075 Diamond Blvd - 170 Concord CA, 94520": {
+    "lat": 37.9712122,
+    "lng": -122.0556969
+  },
+  "5502 Monterey Road #10 San Jose CA, 95138": {
+    "lat": 37.2413138,
+    "lng": -121.7783599
+  },
+  "60 Fifth Ave, Redwood City, CA 94063": {
+    "lat": 37.4863239,
+    "lng": -122.232523
+  },
+  "Raley's Towne Centre, 600, Rohnert Park, CA 94928": {
+    "lat": 38.3396367,
+    "lng": -122.701098
+  },
+  "1220 Diamond Way # 140, Concord, CA 94520": {
+    "lat": 37.9649036,
+    "lng": -122.0532666
+  },
+  "3100 San Pablo Ave # 110 Berkeley, CA 94702": {
+    "lat": 37.8506249,
+    "lng": -122.2865062
+  },
+  "1040 Grant Road, Suite 165 Mountain View, CA 94040": {
+    "lat": 37.3795789,
+    "lng": -122.0751147
+  },
+  "1600 Saratoga Ave 46 San Jose, CA 95129": {
+    "lat": 37.3361663,
+    "lng": -121.890591
+  },
+  "5502 Monterey Rd #10 San Jose, CA 95138": {
+    "lat": 37.2413138,
+    "lng": -121.7783599
+  },
+  "1150 El Camino Real, Unit 209, San Bruno, CA 94066": {
+    "lat": 37.6366277,
+    "lng": -122.4168627
+  },
+  "900 Market St, #301, Oakland, CA 94607": {
+    "lat": 37.8028176,
+    "lng": -122.281484
+  },
+  "214 B Southland Mall Dr, Hayward, CA 94545": {
+    "lat": 37.6688205,
+    "lng": -122.080796
+  },
+  "Raley’s Towne Centre, 600, Rohnert Park, CA 94928": {
+    "lat": 38.3396367,
+    "lng": -122.701098
+  },
+  "3201 20th Ave San Francisco, CA  94132": {
+    "lat": 37.7297857,
+    "lng": -122.4764171
+  },
+  "3100 San Pablo Ave # 110 Berkeley, CA  94702": {
+    "lat": 37.8506249,
+    "lng": -122.2865062
+  },
+  "4100 Klose Way Richmond, CA  94806": {
+    "lat": 37.9828438,
+    "lng": -122.3193123
+  },
+  "24500 Hesperian Blvd Hayward, CA  94545": {
+    "lat": 37.650465,
+    "lng": -122.108477
+  },
+  "22327 Foothill Blvd Hayward, CA  94541": {
+    "lat": 37.6782379,
+    "lng": -122.0840459
+  },
+  "1045 E Brokaw Rd San Jose, CA  95131": {
+    "lat": 37.384192,
+    "lng": -121.8981669
+  },
+  "610 Newhall Drive San Jose, CA  95110": {
+    "lat": 37.3492778,
+    "lng": -121.9210589
+  },
+  "1165 E Arques Ave Sunnyvale, CA  94085": {
+    "lat": 37.3803601,
+    "lng": -122.0023762
+  },
+  "39153 Farwell Drive Fremont, CA  94538": {
+    "lat": 37.5316291,
+    "lng": -121.997637
+  },
+  "1040 Grant Road, Suite 165 Mountain View, CA  94040": {
+    "lat": 37.3795789,
+    "lng": -122.0751147
+  },
+  "1600 Saratoga Ave 46 San Jose, CA  95129": {
+    "lat": 37.3361663,
+    "lng": -121.890591
+  },
+  "5155 Cherry Ave San Jose, CA  95118": {
+    "lat": 37.2598684,
+    "lng": -121.8728323
+  },
+  "5502 Monterey Rd #10 San Jose, CA  95138": {
+    "lat": 37.2413138,
+    "lng": -121.7783599
+  },
+  "1200 Van Ness Avenue San Francisco, CA 94109": {
+    "lat": 37.7869572,
+    "lng": -122.4210202
+  },
+  "45 Montgomery St. San Francisco, CA 94104": {
+    "lat": 37.7893378,
+    "lng": -122.4021508
+  },
+  "555 Oceana Blvd. Pacifica, CA 94044": {
+    "lat": 37.6481325,
+    "lng": -122.4906419
+  },
+  "979 Broadway Avenue Millbrae, CA 94030": {
+    "lat": 37.598958,
+    "lng": -122.400941
+  },
+  "3950 Alameda Ave. Oakland, CA 94601": {
+    "lat": 37.7691673,
+    "lng": -122.2244454
+  },
+  "10636 San Pablo Avenue El Cerrito, CA 94530-2620": {
+    "lat": 37.91234,
+    "lng": -122.3076318
+  },
+  "93 Bovet Rd San Mateo, CA 94402": {
+    "lat": 37.549911,
+    "lng": -122.314806
+  },
+  "567 Floresta Boulevard San Leandro, CA 94578": {
+    "lat": 37.7017598,
+    "lng": -122.141506
+  },
+  "304 Bayfair Mall San Leandro, CA 94578": {
+    "lat": 37.7249296,
+    "lng": -122.1560768
+  },
+  "351 Rheem Blvd. Moraga, CA 94556": {
+    "lat": 37.8614045,
+    "lng": -122.1264927
+  },
+  "2324 Chestnut St San Francisco, CA 94123": {
+    "lat": 37.800338,
+    "lng": -122.4417487
+  },
+  "1725 Union St San Francisco, CA 94123": {
+    "lat": 37.7978454,
+    "lng": -122.4277433
+  },
+  "2330 Polk St San Francisco, CA 94109": {
+    "lat": 37.7983728,
+    "lng": -122.421947
+  },
+  "350 Third St San Francisco, CA 94107": {
+    "lat": 37.7879363,
+    "lng": -122.4075201
+  },
+  "60 Serramonte Center Daly City, CA 94015": {
+    "lat": 37.6722493,
+    "lng": -122.4706292
+  },
+  "2247 South Shore Center Alameda, CA 94501": {
+    "lat": 37.7568076,
+    "lng": -122.2501266
+  },
+  "38 Gary Place San Rafael, CA 94901": {
+    "lat": 37.9589392,
+    "lng": -122.5085471
+  },
+  "1150 Park Place San Mateo, CA 94403": {
+    "lat": 37.5453893,
+    "lng": -122.2904049
+  },
+  "177 Lewelling Blvd San Lorenzo, CA 94580": {
+    "lat": 37.6875325,
+    "lng": -122.1256011
+  },
+  "2830 Ygnacio Valley Rd Walnut Creek, CA 94598": {
+    "lat": 37.9262657,
+    "lng": -122.0178032
+  },
+  "1651 Hollenbeck Ave Sunnyvale, CA 94087": {
+    "lat": 37.3407659,
+    "lng": -122.0415961
+  },
+  "1500 Oliver Road Fairfield, CA 94534": {
+    "lat": 38.2598636,
+    "lng": -122.0687766
+  },
+  "1333 South Winchester Blvd San Jose, CA 95128": {
+    "lat": 37.3000438,
+    "lng": -121.9509422
+  },
+  "375A N. Capitol Ave San Jose, CA 95133": {
+    "lat": 37.3361663,
+    "lng": -121.890591
+  },
+  "1630 Range Ave Santa Rosa, CA 95401": {
+    "lat": 38.4555456,
+    "lng": -122.7320243
+  },
+  "1426 Fillmore St. Suite 317 San Francisco CA": {
+    "lat": 37.7832083,
+    "lng": -122.4322955
+  },
+  "1438 38th Ave San Francisco, Ca 94122": {
+    "lat": 37.7600595,
+    "lng": -122.4970707
+  },
+  "309 Judah St. San Francisco, CA 94122": {
+    "lat": 37.7619756,
+    "lng": -122.4654874
+  },
+  "3140 Balboa St. San Francisco, CA 94121": {
+    "lat": 37.7760207,
+    "lng": -122.4924359
+  },
+  "1916 Lawton St. San Francisco, CA 94122": {
+    "lat": 37.7578638,
+    "lng": -122.4835913
+  },
+  "3801 Balboa St. San Francisco, CA 94121": {
+    "lat": 37.7753357,
+    "lng": -122.4996736
+  },
+  "814 Clement St. San Francisco, CA 94118": {
+    "lat": 37.7830452,
+    "lng": -122.468025
+  },
+  "544 Capp St, San Francisco, CA 94110": {
+    "lat": 37.7579479,
+    "lng": -122.4182662
+  },
+  "741 30th Ave, San Francisco, CA 94121": {
+    "lat": 37.7751019,
+    "lng": -122.4903033
+  },
+  "702 Trancas St, Suite 200, Napa, CA 94558": {
+    "lat": 38.3247484,
+    "lng": -122.2893912
+  },
+  "445 Colesville Rd. Daly City, CA 94015": {
+    "lat": 37.6904826,
+    "lng": -122.47267
+  },
+  "2220 Camino Ramon - San Ramon, CA 94583": {
+    "lat": 37.7763541,
+    "lng": -121.9676323
+  },
+  "2930 Shattuck Ave #206, Berkeley, CA 94705": {
+    "lat": 37.8559622,
+    "lng": -122.2669756
+  },
+  "1300 5th Ave, Belmont, CA 94002": {
+    "lat": 37.5174518,
+    "lng": -122.2743356
+  },
+  "2095 Harrison Street, San Francisco, CA 94110": {
+    "lat": 37.7643788,
+    "lng": -122.4128527
+  },
+  "1427 11th Ave, San Francisco CA 94122": {
+    "lat": 37.7615344,
+    "lng": -122.4685559
+  },
+  "30 29th St. San Francisco, CA 94110": {
+    "lat": 37.7440875,
+    "lng": -122.4215069
+  },
+  "207 Skyline Blvd San Francisco, CA 94132": {
+    "lat": 37.7300865,
+    "lng": -122.5015123
+  },
+  "San Francisco, CA": {
+    "lat": 37.7879363,
+    "lng": -122.4075201
+  },
+  "Cupertino, CA": {
+    "lat": 37.3228934,
+    "lng": -122.0322895
+  },
+  "Dublin, CA": {
+    "lat": 37.7021521,
+    "lng": -121.9357918
+  },
+  "Fremont, CA": {
+    "lat": 37.5482697,
+    "lng": -121.988571
+  },
+  "Livermore, CA": {
+    "lat": 37.6820583,
+    "lng": -121.768053
+  },
+  "Berkeley, CA": {
+    "lat": 37.8708393,
+    "lng": -122.272863
+  },
+  "Novato, CA": {
+    "lat": 38.1061979,
+    "lng": -122.5681191
+  },
+  "San Anselmo, CA": {
+    "lat": 37.9744323,
+    "lng": -122.561503
+  },
+  "San Leandro, CA": {
+    "lat": 37.7249296,
+    "lng": -122.1560768
+  },
+  "Corte Madera, CA": {
+    "lat": 37.9254806,
+    "lng": -122.527475
+  },
+  "San Mateo, CA": {
+    "lat": 37.496904,
+    "lng": -122.3330573
+  },
+  "2110 Greenwich St, San Francisco, CA 94123": {
+    "lat": 37.7992057,
+    "lng": -122.4345302
+  },
+  "235 12th Ave, San Francisco, CA 94118": {
+    "lat": 37.783603,
+    "lng": -122.4714668
+  },
+  "4156 24th St, San Francisco, CA 94114": {
+    "lat": 37.7513087,
+    "lng": -122.435386
+  },
+  "3100 Noriega St, San Francisco, CA 94122": {
+    "lat": 37.7534983,
+    "lng": -122.4970543
+  },
+  "661 Chenery Street San Francisco, CA 94131": {
+    "lat": 37.7344275,
+    "lng": -122.4331494
+  },
+  "500 Tamal Plaza Suite 505 Corte Madera, CA 94925": {
+    "lat": 37.9364258,
+    "lng": -122.519015
+  },
+  "64 Digital Dr, Novato, CA 94949": {
+    "lat": 38.0708005,
+    "lng": -122.5310555
+  },
+  "161 Mitchell Blvd, San Rafael, CA 94903": {
+    "lat": 38.015664,
+    "lng": -122.534383
+  },
+  "300 El Camino Real, San Carlos, CA 94070": {
+    "lat": 37.493479,
+    "lng": -122.2438462
+  },
+  "151 W 20th Avenue, San Mateo, CA 94403": {
+    "lat": 37.547667,
+    "lng": -122.311969
+  },
+  "1625 Van Ness Ave 3rd Floor, San Francisco, CA 94109": {
+    "lat": 37.7879363,
+    "lng": -122.4075201
+  },
+  "3687 Mount Diablo Blvd STE 100, Lafayette, CA 94549": {
+    "lat": 37.8902367,
+    "lng": -122.1294173
+  },
+  "4637 Chabot Dr #106, Pleasanton, CA 94588": {
+    "lat": 37.6924636,
+    "lng": -121.9006459
+  },
+  "3275 Ettie St Oakland, CA 94608": {
+    "lat": 37.8247775,
+    "lng": -122.2886646
+  },
+  "926 Mason St, San Francisco, CA 94129": {
+    "lat": 37.804903,
+    "lng": -122.4687944
+  },
+  "1067 E San Carlos Ave, San Carlos, CA 94070": {
+    "lat": 37.5080834,
+    "lng": -122.2590485
+  },
+  "1631 Challenge Dr, Concord, CA 94520": {
+    "lat": 37.9648187,
+    "lng": -122.0513991
+  },
+  "425 John F Kennedy Dr, San Francisco CA": {
+    "lat": 37.772502,
+    "lng": -122.466397
+  },
+  "1700 Bacon St, San Francisco, CA": {
+    "lat": 37.725525,
+    "lng": -122.4120209
+  },
+  "5210 Diamond Heights Blvd, San Francisco, CA 94131": {
+    "lat": 37.7439969,
+    "lng": -122.4402468
+  },
+  "266-352 Holly Park Cir, San Francisco, CA 94110": {
+    "lat": 37.73706,
+    "lng": -122.418951
+  },
+  "Russian Hill Park, Bay St &, Larkin St, San Francisco, CA 94109": {
+    "lat": 37.7879363,
+    "lng": -122.4075201
+  },
+  "Sloat Blvd &, Upper Great Hwy, San Francisco, CA 94132": {
+    "lat": 37.7879363,
+    "lng": -122.4075201
+  },
+  "1600 Holloway Ave, San Francisco, CA 94132": {
+    "lat": 37.7206091,
+    "lng": -122.480765
+  },
+  "1160 Battery Street, San Francisco, CA 94111": {
+    "lat": 37.801935,
+    "lng": -122.4016168
+  },
+  "1840 Gateway Drive, San Mateo, CA 94404": {
+    "lat": 37.5571784,
+    "lng": -122.2800696
+  },
+  "360 S Shoreline Blvd, Mountain View, CA 94041": {
+    "lat": 37.3939264,
+    "lng": -122.0852172
+  },
+  "50 Embarcadero Road, Palo Alto, CA 94301": {
+    "lat": 37.4358242,
+    "lng": -122.1553327
+  },
+  "3200 California Street, San Francisco, CA 94118": {
+    "lat": 37.7873854,
+    "lng": -122.4478439
+  },
+  "655 Brotherhood Way, San Francisco, CA 94132": {
+    "lat": 37.713404,
+    "lng": -122.4755055
+  },
+  "800 Foster City Blvd, Foster City, CA 94404": {
+    "lat": 37.5584349,
+    "lng": -122.2662905
+  },
+  "Emeryville, CA": {
+    "lat": 37.8314089,
+    "lng": -122.2865266
+  },
+  "Pleasanton, CA": {
+    "lat": 37.6624312,
+    "lng": -121.8746789
+  },
+  "Walnut Creek, CA": {
+    "lat": 37.9020731,
+    "lng": -122.0618702
+  },
+  "Santa Rosa, CA": {
+    "lat": 38.4404925,
+    "lng": -122.7141049
+  },
+  "Belmont, CA": {
+    "lat": 37.5164926,
+    "lng": -122.2941914
+  },
+  "Palo Alto, CA": {
+    "lat": 37.4443293,
+    "lng": -122.1598465
+  },
+  "San Jose, CA": {
+    "lat": 37.3361663,
+    "lng": -121.890591
+  },
+  "500 El Camino Real, Santa Clara, CA 95053": {
+    "lat": 37.3505152,
+    "lng": -121.9367171
+  },
+  "450 Jane Stanford Way, Stanford, CA 94305": {
+    "lat": 37.4327332,
+    "lng": -122.1755
+  },
+  "50 Embarcadero Rd, Palo Alto, CA 94301": {
+    "lat": 37.4358242,
+    "lng": -122.1553327
+  },
+  "2357 Haste St, Berkeley, CA 94720": {
+    "lat": 37.8656897,
+    "lng": -122.2619378
+  },
+  "Alamo, CA": {
+    "lat": 37.8551351,
+    "lng": -122.0066891
+  },
+  "Oakland, CA": {
+    "lat": 37.8044557,
+    "lng": -122.271356
+  },
+  "Alameda, CA": {
+    "lat": 37.6090291,
+    "lng": -121.899142
+  },
+  "Burlingame, CA": {
+    "lat": 37.5780965,
+    "lng": -122.3473099
+  },
+  "Lafayette, CA": {
+    "lat": 37.8857582,
+    "lng": -122.1180201
+  },
+  "Los Altos, CA": {
+    "lat": 37.3790629,
+    "lng": -122.116578
+  },
+  "Marin, CA": {
+    "lat": 38.0409144,
+    "lng": -122.6199638
+  },
+  "Menlo Park, CA": {
+    "lat": 37.4519671,
+    "lng": -122.177992
+  },
+  "North San Jose, CA": {
+    "lat": 37.3837359,
+    "lng": -121.9205071
+  },
+  "Glenview, Oakland, CA": {
+    "lat": 37.8072396,
+    "lng": -122.2214432
+  },
+  "Rockridge, Oakland, CA": {
+    "lat": 37.8447574,
+    "lng": -122.2512573
+  },
+  "San Carlos, CA": {
+    "lat": 37.504936,
+    "lng": -122.261823
+  },
+  "Hayes Valley, San Francisco": {
+    "lat": 37.7766853,
+    "lng": -122.4229361
+  },
+  "Twin Peaks, San Francisco, CA": {
+    "lat": 37.7524145,
+    "lng": -122.4475866
+  },
+  "Almaden, San Jose, CA": {
+    "lat": 37.2216072,
+    "lng": -121.8617567
+  },
+  "San Ramon, CA": {
+    "lat": 37.7648021,
+    "lng": -121.9544387
+  },
+  "Saratoga, CA": {
+    "lat": 37.2638324,
+    "lng": -122.0230146
+  },
+  "Sunnyvale, CA": {
+    "lat": 37.3688301,
+    "lng": -122.036349
+  },
+  "9777 Golf Links Rd, Oakland, CA 94605": {
+    "lat": 37.7534496,
+    "lng": -122.1388232
+  },
+  "Art Studios, 557 McReynolds Rd, Sausalito, CA 94965": {
+    "lat": 37.8590272,
+    "lng": -122.485469
+  },
+  "1451 Middlefield Rd, Palo Alto, CA 94301": {
+    "lat": 37.4434284,
+    "lng": -122.1444282
+  },
+  "601 Skyway Rd, San Carlos, CA 94070": {
+    "lat": 37.5126952,
+    "lng": -122.2529222
+  },
+  "781 Beach St, San Francisco, CA 94109": {
+    "lat": 37.8063768,
+    "lng": -122.4217874
+  },
+  "104 Montgomery St, San Francisco, CA 94129": {
+    "lat": 37.8013627,
+    "lng": -122.4587206
+  },
+  "Orinda, CA": {
+    "lat": 37.8771476,
+    "lng": -122.1796888
+  },
+  "617 Rand St., San Mateo, CA, 94401": {
+    "lat": 37.5719575,
+    "lng": -122.3078282
+  },
+  "545 Eucalyptus Avenue Hillsborough, CA 94010-6404": {
+    "lat": 37.568812,
+    "lng": -122.3612784
+  },
+  "1220 University Drive, Suite 202 Menlo Park, CA 94025": {
+    "lat": 37.4511082,
+    "lng": -122.1880803
+  },
+  "100 O’Connor Dr #21 San Jose, CA 95128": {
+    "lat": 37.3242693,
+    "lng": -121.9377562
+  },
+  "1215 O'Brien Dr, Menlo Park, CA 94025": {
+    "lat": 37.4758659,
+    "lng": -122.1471981
+  },
+  "3455 Edison Way, Menlo Park, CA 94025": {
+    "lat": 37.4519671,
+    "lng": -122.177992
+  },
+  "3550 Stevens Creek Blvd STE 200, San Jose, CA 95117": {
+    "lat": 37.3227927,
+    "lng": -121.961606
+  },
+  "879 Coleman Ave. Suite 40, San Jose, CA 95110": {
+    "lat": 37.3457711,
+    "lng": -121.9147919
+  },
+  "2741 Middlefield Rd. Suite 101, Palo Alto, CA 94306": {
+    "lat": 37.4334812,
+    "lng": -122.12873
+  },
+  "4811 Hopyard Rd. Suite G7, Pleasanton, CA 94588": {
+    "lat": 37.6918176,
+    "lng": -121.9034416
+  },
+  "1045 E Capitol Expressway, San Jose, CA 95121": {
+    "lat": 37.3011435,
+    "lng": -121.822995
+  },
+  "1350 Grant Rd. Suite 2, Mountain View, CA 94040": {
+    "lat": 37.3767247,
+    "lng": -122.0765734
+  },
+  "2220 Mountain Blvd, Oakland, CA 94611": {
+    "lat": 37.8233588,
+    "lng": -122.2083015
+  },
+  "2025 Gellert Blvd Suite 203, Daly City, CA 94015": {
+    "lat": 37.6501426,
+    "lng": -122.4543876
+  },
+  "6654 Koll Center Pkwy. STE 185 Pleasanton, CA 94566": {
+    "lat": 37.6586112,
+    "lng": -121.898547
+  }
+}
