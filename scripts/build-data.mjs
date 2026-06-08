@@ -78,10 +78,50 @@ function splitList(value) {
 // Grouping sports-type activities under a single "Sports" filter is handled in
 // the app (see SPORTS_GROUP in src/lib/filters.ts) so the original chips stay
 // visible. Here we only fix up obvious spelling/casing variants.
+const sentenceCase = (s) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
+
+// Built from the data: maps a lowercased subcategory to its canonical casing so
+// values that differ only by capitalization (e.g. "Ninja warrior" vs "Ninja
+// Warrior") collapse into one service type. Acronyms like "STEM" or "AAC" only
+// ever appear in a single casing, so their canonical form is themselves.
+let SUBCATEGORY_CANONICAL = new Map();
+
+/**
+ * Choose one canonical casing per distinct (case-insensitive) subcategory.
+ * Preference: most frequent variant, then a sentence-cased variant if present,
+ * then first-seen — never invents a new casing (so acronyms stay intact).
+ */
+function buildSubcategoryCanonical(rows, scIdx) {
+  const groups = new Map();
+  for (const r of rows) {
+    for (const raw of splitList(r[scIdx])) {
+      const value = raw.toLowerCase() === "arts" ? "Art" : raw;
+      const key = value.toLowerCase();
+      if (!groups.has(key)) groups.set(key, []);
+      const arr = groups.get(key);
+      const found = arr.find((e) => e.value === value);
+      if (found) found.count++;
+      else arr.push({ value, count: 1, order: arr.length });
+    }
+  }
+  const canonical = new Map();
+  for (const [key, arr] of groups) {
+    arr.sort((a, b) => {
+      if (b.count !== a.count) return b.count - a.count;
+      const aPref = a.value === sentenceCase(a.value) ? 0 : 1;
+      const bPref = b.value === sentenceCase(b.value) ? 0 : 1;
+      if (aPref !== bPref) return aPref - bPref;
+      return a.order - b.order;
+    });
+    canonical.set(key, arr[0].value);
+  }
+  return canonical;
+}
+
 function normalizeSubcategory(value) {
   const lower = value.toLowerCase();
   if (lower === "arts") return "Art";
-  return value;
+  return SUBCATEGORY_CANONICAL.get(lower) ?? value;
 }
 
 // Known Bay Area cities present in (or relevant to) the dataset. Order longer
@@ -260,6 +300,10 @@ async function main() {
   const rows = parseCsv(csv);
   const header = rows.shift();
   const idx = Object.fromEntries(header.map((h, i) => [h.trim(), i]));
+
+  // Resolve canonical subcategory casing up front so the vendor loop can
+  // consolidate values that differ only by capitalization.
+  SUBCATEGORY_CANONICAL = buildSubcategoryCanonical(rows, idx["Subcategories"]);
 
   const cache = loadCache();
   const vendors = new Map();

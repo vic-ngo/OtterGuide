@@ -24,25 +24,27 @@ export const emptyFilters: Filters = {
  * "Sports" matches a vendor with ANY of these, while each vendor still keeps
  * (and displays) its own specific subcategory chips like "Open play".
  */
+// Stored lowercase so membership checks are case-insensitive (the source data
+// mixes casing, e.g. "Ninja warrior" vs "Ninja Warrior").
 export const SPORTS_GROUP = new Set([
-  "Sports",
-  "Youth sports",
-  "Climbing",
-  "Dance",
-  "Yoga",
-  "Ninja warrior",
-  "Parkour",
-  "Open play",
-  "Karate",
-  "Jiu Jitsu",
-  "Jiu jitsu",
-  "Martial arts",
-  "Gymnastics",
+  "sports",
+  "youth sports",
+  "climbing",
+  "dance",
+  "yoga",
+  "ninja warrior",
+  "parkour",
+  "open play",
+  "karate",
+  "jiu jitsu",
+  "martial arts",
+  "gymnastics",
+  "aerial",
 ]);
 
 /** Does this vendor belong to the broad "Sports" group? */
 export function inSportsGroup(vendor: Vendor): boolean {
-  return vendor.subcategories.some((s) => SPORTS_GROUP.has(s));
+  return vendor.subcategories.some((s) => SPORTS_GROUP.has(s.toLowerCase()));
 }
 
 export interface FacetCount {

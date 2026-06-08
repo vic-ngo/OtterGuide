@@ -190,6 +190,33 @@
     "id": "bakar-fitness-ucsf"
   },
   {
+    "name": "Bay Aerials Gymnastics",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gymnastics",
+      "Aerial",
+      "Ninja warrior",
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "John Aguirre",
+    "email": "info@bayaerials.com",
+    "phone": "510)-651-5870",
+    "website": "bayaerials.com",
+    "locations": [
+      {
+        "label": "Fremont, CA",
+        "address": "",
+        "city": "Fremont"
+      }
+    ],
+    "id": "bay-aerials-gymnastics"
+  },
+  {
     "name": "Bay Area Community Resources (BACR)",
     "categories": [
       "Social Recreation"
@@ -1267,6 +1294,33 @@
       }
     ],
     "id": "dublin-parks-and-community-services"
+  },
+  {
+    "name": "Edge Gymnastics",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gymnastics",
+      "Camp"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Edge Gymnastics",
+    "email": "info@edge-gymnastics.com",
+    "phone": "(925)-479-9904",
+    "website": "edge-gymnastics.com",
+    "locations": [
+      {
+        "label": "Dublin, Ca",
+        "address": "6780 Sierra Ct, Dublin, CA 94568",
+        "city": "Dublin",
+        "lat": 37.7097236,
+        "lng": -121.9149781
+      }
+    ],
+    "id": "edge-gymnastics"
   },
   {
     "name": "Equinox Gym (All locations)",
