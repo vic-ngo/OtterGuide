@@ -1022,5 +1022,69 @@
   "39159 Paseo Padre Pkwy #204 Fremont, CA 94538": {
     "lat": 37.553106,
     "lng": -121.9809487
+  },
+  "1 Saint Vincents Drive, San Rafael, CA 94903": {
+    "lat": 37.9747795,
+    "lng": -122.5316686
+  },
+  "360 9th Ave, San Francisco, CA 94118": {
+    "lat": 37.7814854,
+    "lng": -122.4672902
+  },
+  "811 University Ave. Suite 100, Berkeley, CA 94710": {
+    "lat": 37.8683317,
+    "lng": -122.298209
+  },
+  "19638 Stevens Creek Blvd Suite 230, Cupertino, CA 95014": {
+    "lat": 37.3225891,
+    "lng": -122.0175255
+  },
+  "50 University Ave. Suite A300, Los Gatos, CA 95030": {
+    "lat": 37.2234103,
+    "lng": -121.9813474
+  },
+  "1600 Los Gamos Drive Lobby D Suite 380, San Rafael, CA 94903": {
+    "lat": 37.9747795,
+    "lng": -122.5316686
+  },
+  "2191 E. Bayshore Road Suite 100, Palo Alto, CA 94303": {
+    "lat": 37.4509835,
+    "lng": -122.1242
+  },
+  "4301 Hacienda Dr. Suite 120, Pleasanton, CA 94588": {
+    "lat": 37.6956668,
+    "lng": -121.8933248
+  },
+  "1160 Battery Street Suite 40, San Francisco, CA 94111": {
+    "lat": 37.801935,
+    "lng": -122.4016168
+  },
+  "2000 Alameda de las Pulgas Suite 128, San Mateo, CA 94403": {
+    "lat": 37.545389,
+    "lng": -122.320744
+  },
+  "1840 Gateway Dr. Suite 100, San Mateo, CA 94404": {
+    "lat": 37.5570129,
+    "lng": -122.2802316
+  },
+  "3003 Oak Road Suite 150, Walnut Creek, CA 94597": {
+    "lat": 37.9245157,
+    "lng": -122.0577233
+  },
+  "101 Ygnacio Valley Road Suite 150, Walnut Creek, CA 94596": {
+    "lat": 37.905181,
+    "lng": -122.069365
+  },
+  "1818 Clear Lake Ave, Milpitas, CA 95035": {
+    "lat": 37.4177596,
+    "lng": -121.873171
+  },
+  "1475 North Broadway, Suite 200, Walnut Creek, CA 94596": {
+    "lat": 37.9003026,
+    "lng": -122.0602184
+  },
+  "1231 Solano Ave, Albany CA, 94706": {
+    "lat": 37.890644,
+    "lng": -122.294927
   }
 }

@@ -1578,6 +1578,110 @@
     "id": "exploring-music"
   },
   {
+    "name": "Fusion Learning Inc",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Middle school",
+      "High school",
+      "Tutoring"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Tatyana Svetlitsa",
+    "email": "tsvetlitsa@fusionacademy.com",
+    "phone": "(616)-301-1221",
+    "website": "fusionacademy.com",
+    "locations": [
+      {
+        "label": "Online",
+        "address": "",
+        "city": "",
+        "online": true
+      },
+      {
+        "label": "Berkeley",
+        "address": "811 University Ave. Suite 100, Berkeley, CA 94710",
+        "city": "Berkeley",
+        "lat": 37.8683317,
+        "lng": -122.298209
+      },
+      {
+        "label": "Cupertino",
+        "address": "19638 Stevens Creek Blvd Suite 230, Cupertino, CA 95014",
+        "city": "Cupertino",
+        "lat": 37.3225891,
+        "lng": -122.0175255
+      },
+      {
+        "label": "Los Gatos",
+        "address": "50 University Ave. Suite A300, Los Gatos, CA 95030",
+        "city": "",
+        "lat": 37.2234103,
+        "lng": -121.9813474
+      },
+      {
+        "label": "Marin",
+        "address": "1600 Los Gamos Drive Lobby D Suite 380, San Rafael, CA 94903",
+        "city": "San Rafael",
+        "lat": 37.9747795,
+        "lng": -122.5316686
+      },
+      {
+        "label": "Palo Alto",
+        "address": "2191 E. Bayshore Road Suite 100, Palo Alto, CA 94303",
+        "city": "Palo Alto",
+        "lat": 37.4509835,
+        "lng": -122.1242
+      },
+      {
+        "label": "Pleasanton",
+        "address": "4301 Hacienda Dr. Suite 120, Pleasanton, CA 94588",
+        "city": "Pleasanton",
+        "lat": 37.6956668,
+        "lng": -121.8933248
+      },
+      {
+        "label": "San Francisco",
+        "address": "1160 Battery Street Suite 40, San Francisco, CA 94111",
+        "city": "San Francisco",
+        "lat": 37.801935,
+        "lng": -122.4016168
+      },
+      {
+        "label": "San Mateo",
+        "address": "2000 Alameda de las Pulgas Suite 128, San Mateo, CA 94403",
+        "city": "San Mateo",
+        "lat": 37.545389,
+        "lng": -122.320744
+      },
+      {
+        "label": "San Mateo Foster City",
+        "address": "1840 Gateway Dr. Suite 100, San Mateo, CA 94404",
+        "city": "San Mateo",
+        "lat": 37.5570129,
+        "lng": -122.2802316
+      },
+      {
+        "label": "Walnut Creek",
+        "address": "3003 Oak Road Suite 150, Walnut Creek, CA 94597",
+        "city": "Walnut Creek",
+        "lat": 37.9245157,
+        "lng": -122.0577233
+      },
+      {
+        "label": "Walnut Creek Downtown",
+        "address": "101 Ygnacio Valley Road Suite 150, Walnut Creek, CA 94596",
+        "city": "Walnut Creek",
+        "lat": 37.905181,
+        "lng": -122.069365
+      }
+    ],
+    "id": "fusion-learning-inc"
+  },
+  {
     "name": "Galileo Camp",
     "categories": [
       "Social Recreation"
@@ -2511,6 +2615,33 @@
       }
     ],
     "id": "maxim-healthcare-companion"
+  },
+  {
+    "name": "Milpitas Star Aquatics",
+    "categories": [
+      "Social Recreation"
+    ],
+    "subcategories": [
+      "Gym",
+      "Swim"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Clarisse Lusung",
+    "email": "mstafcenter@gmail.com",
+    "phone": "(408)-942-8889",
+    "website": "www.msta-swim.com",
+    "locations": [
+      {
+        "label": "Milpitas, CA",
+        "address": "1818 Clear Lake Ave, Milpitas, CA 95035",
+        "city": "",
+        "lat": 37.4177596,
+        "lng": -121.873171
+      }
+    ],
+    "id": "milpitas-star-aquatics"
   },
   {
     "name": "Movement Climbing LLC",
@@ -3677,7 +3808,7 @@
     "subcategories": [
       "Elementary",
       "Middle school",
-      "High School",
+      "High school",
       "Transition",
       "Adult"
     ],
@@ -3780,6 +3911,41 @@
       }
     ],
     "id": "the-walt-disney-family-museum"
+  },
+  {
+    "name": "Tilden Prep",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Middle school",
+      "High school",
+      "Tutoring"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Laurie Kumar",
+    "email": "adminwc@tildenprep.com",
+    "phone": "(925)-933-5506",
+    "website": "tildenprep.com",
+    "locations": [
+      {
+        "label": "Walnut Creek, CA",
+        "address": "1475 North Broadway, Suite 200, Walnut Creek, CA 94596",
+        "city": "Walnut Creek",
+        "lat": 37.9003026,
+        "lng": -122.0602184
+      },
+      {
+        "label": "Albany, CA",
+        "address": "1231 Solano Ave, Albany CA, 94706",
+        "city": "",
+        "lat": 37.890644,
+        "lng": -122.294927
+      }
+    ],
+    "id": "tilden-prep"
   },
   {
     "name": "Touchstone Climbing, Inc",
@@ -4077,6 +4243,58 @@
       }
     ],
     "id": "waterworks-aquatics"
+  },
+  {
+    "name": "Winston Preparatory School Marin County",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Grades 3-12"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Winston Learning",
+    "email": "beaurgard@winstonprep.edu",
+    "phone": "(415)-993-5533",
+    "website": "winstonprep.edu",
+    "locations": [
+      {
+        "label": "Marin County",
+        "address": "1 Saint Vincents Drive, San Rafael, CA 94903",
+        "city": "San Rafael",
+        "lat": 37.9747795,
+        "lng": -122.5316686
+      }
+    ],
+    "id": "winston-preparatory-school-marin-county"
+  },
+  {
+    "name": "Winston Transitions SF",
+    "categories": [
+      "Education"
+    ],
+    "subcategories": [
+      "Transition"
+    ],
+    "fundingAccepted": [
+      "ACE FMS"
+    ],
+    "contactName": "Winston Learning",
+    "email": "beaurgard@winstonprep.edu",
+    "phone": "(415)-993-5533",
+    "website": "winstonprep.edu",
+    "locations": [
+      {
+        "label": "San Francisco",
+        "address": "360 9th Ave, San Francisco, CA 94118",
+        "city": "San Francisco",
+        "lat": 37.7814854,
+        "lng": -122.4672902
+      }
+    ],
+    "id": "winston-transitions-sf"
   },
   {
     "name": "WorkABLE Career Trends",
